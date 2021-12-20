@@ -1,9 +1,6 @@
 #Utility Function 
 import re
 import numpy as np
-# from constants import *
-
-#misc
 
 def fiscalyear(dt):
     
@@ -688,26 +685,6 @@ def ck_pavement_ws_plan_year_RTL(df):
 # '''
 
 
-# def ck_pav_ws_complete(df):
-    
-#     #logic
-#     #if last fiscal year is exclusively between 24 and 31, 
-#     # and pavement worksheet has a plan year matching last fiscal year, 
-#     # and performance worksheet has an entry of same project ID and section, and Performance Objective starting with 'Pavement'
-#     # Question: can we make the logic more specific and reading friendly 
-#     # df_perf_raw_data['Performance Objective'] in ['Pavement Class I','Pavement Class II','Pavement Class III']
-    
-#     if(pd.isnull(df['Pavement Plan Years'])) : #if found plan year, means there is an entry in pavement worksheet
-#         return  "OK"
-#     else:
-#         #There is no missing data issue for PavementWorksheet_Plan Year:  df_pav_raw_data['Plan Year'].unique()
-#         if(df['Last Year of Fiscal Year']>24 and df['Last Year of Fiscal Year']<31 
-#            and not (df['Last Year of Fiscal Year'] + 2000 in df['Pavement Plan Years']) #question to be answered: check this logic
-#            and df['Performance Objective has Pavement'] == 'Yes'): 
-#             return  'Please complete pavement worksheet'
-#         else: return 'OK'
-
-
 def ck_pav_ws_complete(df):
     
     #updated logic
@@ -734,13 +711,6 @@ def ck_pav_ws_complete(df):
 
 
 
-
-
-
-
-
-
-
 #data publish functions
 
 import urllib.request
@@ -760,7 +730,14 @@ from pandleau import *
 
 
 def publish_datasource(df, hyper_name):
-    #tableau limit the number of columns in one extract to be 128. 
+    #IMPORTANT: tableau limit the number of columns in one extract to be 128. 
+    
+    #remove the local hyper file
+    try :
+        print('deleting existing hyper file...')
+        os.remove(hyper_name)
+    except:
+        pass
     
     df_tab = pandleau(df)
     df_tab.to_tableau(hyper_name, 'Extract',
@@ -772,6 +749,7 @@ def publish_datasource(df, hyper_name):
 
     path_to_database = Path(hyper_name)
 
+    
     print(f"Signing into {config.site_name} at {config.server_address}")
     with server.auth.sign_in(tableau_auth):
         # Define publish mode - Overwrite, Append, or CreateNew
