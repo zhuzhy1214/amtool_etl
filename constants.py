@@ -18,7 +18,7 @@ LOG_FILE = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\Proje
 #for development
 DATA_SOURCE_TYPE = 'csv'
 DATALAKE_HTTPSEVER_FOLDER = r'.\output\HTTPSEVER'
-DATALAKE_FOLDER = r'.\output\DATALAKE'
+DATALAKE_FOLDER = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\ProjectBook_DataLake'
 
 # PROJECTBOOKCHECK_INPUT_FOLDER = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\Projectbook_DataChecksSupport\dev\input'
 

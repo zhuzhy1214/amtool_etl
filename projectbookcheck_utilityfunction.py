@@ -39,7 +39,7 @@ def curreny_to_float(input_string):
         input_string = input_string.replace(',', '')
         return float(input_string)
     else:
-        return input_string
+        return float(input_string)
 
 def FY_cleanup(FY):
     temp = re.split('[-/]', FY)
