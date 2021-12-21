@@ -10,5 +10,5 @@ output/
 config.py
 Untitled*
 *.hyper
-
+*.log
 
