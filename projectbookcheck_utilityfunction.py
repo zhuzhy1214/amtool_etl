@@ -2,6 +2,17 @@
 import re
 import numpy as np
 
+def regulate_EFIS(EFIS):
+    #check if is all numerical
+    #convert to 10-digit string
+    if isinstance(EFIS, str) and EFIS.strip()[0] == "'":
+        EFIS = EFIS[1:]
+    try: 
+        return "{:10.0f}".format(float(EFIS))
+    except: 
+        return 0
+
+
 def fiscalyear(dt):
     
     '''
@@ -733,11 +744,11 @@ def publish_datasource(df, hyper_name):
     #IMPORTANT: tableau limit the number of columns in one extract to be 128. 
     
     #remove the local hyper file
-    try :
-        print('deleting existing hyper file...')
-        os.remove(hyper_name)
-    except:
-        pass
+    # try :
+        # print('deleting existing hyper file...')
+        # os.remove(hyper_name)
+    # except:
+        # pass
     
     df_tab = pandleau(df)
     df_tab.to_tableau(hyper_name, 'Extract',
