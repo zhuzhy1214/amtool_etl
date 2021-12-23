@@ -2,6 +2,16 @@
 import re
 import numpy as np
 
+import os
+import shutil
+
+
+# calculate earned value for each district, RTL
+
+def calc_earned_value(escalated_uc, cumulated_achieved_performance, target_performance ):
+    return round(escalated_uc * min(abs(cumulated_achieved_performance), target_performance), 3)
+    
+
 def regulate_EFIS(EFIS):
     #check if is all numerical
     #convert to 10-digit string
@@ -377,9 +387,8 @@ def calc_unique_pave_ID(df):
      + '_'+ str(0 if pd.isnull(df['Lane']) else df['Lane'])
      + '_'+ '{:.0f}'.format(df['RoadwayClass'])
     )
-    
-    
-
+        
+        
 def regulate_timestamp_format(dt):
     if dt is np.nan: 
         return np.nan
@@ -787,26 +796,36 @@ def publish_datasource(df, hyper_name):
 
 
 
-def export_data(df_out, filename, PROJECTBOOKCHECK_HTTPSEVER_FOLDER, LOG_FILE):
-    file_export_log = open(LOG_FILE, "a")  # append mode
-    file_export_log.write("#####{} \n".format(datetime.now().strftime("%m-%d-%Y, %H:%M")))
+def export_csv(df_out, filename, PROJECTBOOKCHECK_HTTPSERVER_FOLDER, LOG_FILE):
+    
+    # file_export_log.write("#####{} \n".format(datetime.now().strftime("%m-%d-%Y, %H:%M")))
+    sourcepath = os.path.join('.\output', "{}.csv".format(filename))
+    targetpath = os.path.join(PROJECTBOOKCHECK_HTTPSERVER_FOLDER, "{}.csv".format(filename))
     
     try: 
-        df_out.to_csv('.\output\{}.csv'.format(filename), index= False)
-        shutil.copy('.\output\{}.csv'.format(filename), '{}\{}.csv'.format(PROJECTBOOKCHECK_HTTPSEVER_FOLDER, filename))
-        file_export_log.write("Succeeded: {} \n".format('{}\{}.csv'.format(PROJECTBOOKCHECK_HTTPSEVER_FOLDER, filename)))
+        df_out.to_csv(sourcepath, index= False)
     except:
-        file_export_log.write("Failed: {} \n".format('{}\{}.csv'.format(PROJECTBOOKCHECK_HTTPSEVER_FOLDER, filename)))
-
-
+        file_export_log = open(LOG_FILE, "a")  # append mode
+        file_export_log.write("Failed: {} \n".format(sourcepath))
+        file_export_log.close()
+        
+    try: 
+        shutil.copy(sourcepath, targetpath)
+    except:
+        file_export_log = open(LOG_FILE, "a")  # append mode
+        file_export_log.write("Failed: {} \n".format(targetpath))
+        file_export_log.close()
+        
+    
+def export_hyper(df_out, filename, LOG_FILE):
     hyper_name = r'{}.hyper'.format(filename)
-
     try: 
         publish_datasource(df_out, hyper_name)
-        file_export_log.write("Succeeded: {} \n".format('{}'.format(hyper_name)))
     except:
-    #     print('error')
+        file_export_log = open(LOG_FILE, "a")  # append mode
         file_export_log.write("Failed: {} \n".format('{}'.format(hyper_name)))
+        file_export_log.close()
         
-    file_export_log.close()    
+        
+        
     
