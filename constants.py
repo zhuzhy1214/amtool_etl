@@ -19,7 +19,6 @@ DATA_SOURCE_TYPE = 'csv'
 DATALAKE_HTTPSERVER_FOLDER = r'.\output\HTTPSERVER'
 DATALAKE_FOLDER = r'.\output\DATALAKE'
 
-# PROJECTBOOKCHECK_INPUT_FOLDER = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\Projectbook_DataChecksSupport\dev\input'
 
 PROJECTBOOKCHECK_INPUT_ARCHIVE_FOLDER = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\Projectbook_DataChecksSupport\archive\input'
 
@@ -28,3 +27,7 @@ PROJECTBOOKCHECK_OUTPUT_FOLDER = r'.\output\DATALAKE\PROJECTBOOKCHECK'
 
 LOG_FILE = r'.\output\LOG\ProjectBookExport.log'
 
+
+# PROJECTBOOKCHECK_INPUT_FOLDER = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\Projectbook_DataChecksSupport\dev\input'
+
+# PROJECTBOOKCHECK_OUTPUT_FOLDER = r'\\ct.dot.ca.gov\dfshq\DIROFC\Asset Management\4e Project Book\Projectbook_DataChecksSupport\dev\output'

@@ -1,0 +1,59 @@
+
+#STEP 1: install python package of 'pandleau' in your local python environement, https://pypi.org/project/pandleau/
+#Step 2: get the token from tableau server using your own credential. update the token in a config.py file. sample file provided seperately.
+#Step 3: generate a pandas dataframe from your own data process
+#Step 4: use the following script to publish the pandas dataframe to the server.
+
+
+import config
+import pandas as pd
+import tableauserverclient as TSC
+from pandleau import *
+
+def publish_datasource(df, hyper_name):
+    #IMPORTANT: tableau limit the number of columns in one extract to be 128. 
+    
+    #remove the local hyper file
+    # try :
+        # print('deleting existing hyper file...')
+        # os.remove(hyper_name)
+    # except:
+        # pass
+    
+    df_tab = pandleau(df)
+    df_tab.to_tableau(hyper_name, 'Extract',
+                      add_index=False)  # must name the table to be "EXTRACT" to publish the hyper file to server
+
+    tableau_auth = TSC.PersonalAccessTokenAuth(token_name=config.token_name, personal_access_token=config.token_value,
+                                               site_id=config.site_name)
+    server = TSC.Server(config.server_address, use_server_version=True)
+
+    path_to_database = Path(hyper_name)
+
+    
+    print(f"Signing into {config.site_name} at {config.server_address}")
+    with server.auth.sign_in(tableau_auth):
+        # Define publish mode - Overwrite, Append, or CreateNew
+        publish_mode = TSC.Server.PublishMode.Overwrite
+
+        # Get project_id from project_name
+        all_projects, pagination_item = server.projects.get()
+        for project in TSC.Pager(server.projects):
+            if project.name == config.project_name:
+                project_id = project.id
+
+        # Create the datasource object with the project_id
+        datasource = TSC.DatasourceItem(project_id)
+
+        print(f"Publishing {hyper_name} to {config.project_name}...")
+        # Publish datasource
+        datasource = server.datasources.publish(datasource, path_to_database, publish_mode)
+        
+        
+        # print("Datasource published. Datasource ID: {0}".format(datasource.id))
+        # print("Datasource published. Datasource Name: {0}".format(datasource.name))
+
+        return "Datasource published. Datasource Name: {0}".format(datasource.name)
+
+
+

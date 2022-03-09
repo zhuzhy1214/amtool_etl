@@ -1,0 +1,1173 @@
+,AMT_ID,EA,EFIS_Program,EFIS,Section In Use,Does Project Location Match CTIPS?,Does Anchor Performance Match CTIPS?
+0,16414.0,0F240,115000094.0,115000094.0,PPC,OK,OK
+1,22305.0,0B091,120000028.0,120000028.0,PRG,OK,OK
+2,22773.0,0L040,121000044.0,121000044.0,PRG,OK,OK
+3,22912.0,0L230,121000086.0,121000086.0,PRG,OK,OK
+4,17537.0,0G210,116000137.0,116000137.0,PRG,OK,OK
+5,22923.0,43642,121000071.0,121000071.0,PRG,OK,OK
+6,22924.0,43641,121000070.0,121000070.0,PRG,OK,OK
+7,9014.0,43640,100000193.0,100000193.0,PPC,OK,OK
+8,21413.0,48802,119000028.0,119000028.0,PPC,OK,OK
+9,22373.0,0K640,120000129.0,120000129.0,PRG,OK,OK
+10,22611.0,0K790,121000010.0,121000010.0,CCA,OK,OK
+11,16443.0,0F760,116000060.0,116000060.0,PPC,OK,OK
+12,16424.0,0F430,116000005.0,116000005.0,PPC,OK,OK
+13,13533.0,0E010,113000090.0,113000090.0,PPC,OK,OK
+14,21406.0,0J890,119000119.0,119000119.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+15,16442.0,0F160,115000076.0,115000076.0,PPC,OK,OK
+16,9246.0,0C500,112000292.0,112000292.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+17,19292.0,0H610,117000241.0,117000241.0,PRG,OK,OK
+18,16814.0,0F500,116000014.0,116000014.0,PPC,OK,Project anchor performance items do not match CTIPS.
+19,13440.0,0C150,113000016.0,113000016.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+20,18986.0,0H191,117000211.0,117000211.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+21,11281.0,0G140,116000129.0,116000129.0,PPC,OK,OK
+22,19295.0,0H640,117000245.0,117000245.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+23,22719.0,46480,100000266.0,100000266.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+24,15993.0,48770,114000071.0,114000071.0,PPC,OK,Project anchor performance value does not match CTIPS.
+25,11251.0,0A110,112000211.0,112000211.0,PPC,OK,OK
+26,18135.0,0G610,117000027.0,117000027.0,PRG,OK,Project anchor performance value does not match CTIPS.
+27,16431.0,0C110,112000229.0,112000229.0,PPC,OK,Project anchor performance value does not match CTIPS.
+28,22715.0,0K940,121000033.0,121000033.0,PRG,OK,Project anchor performance value does not match CTIPS.
+29,16895.0,0G420,116000186.0,116000186.0,PPC,OK,OK
+30,18636.0,0H200,117000128.0,117000128.0,PPC,OK,OK
+31,22686.0,0K900,121000024.0,121000024.0,CCA,OK,OK
+32,14178.0,0G580,117000023.0,117000023.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+33,16428.0,0E890,115000043.0,115000043.0,PPC,OK,OK
+34,17275.0,0F820,116000067.0,116000067.0,PPC,OK,OK
+35,22527.0,0K710,120000141.0,120000141.0,CCA,OK,OK
+36,21782.0,0K150,120000035.0,120000035.0,PRG,OK,OK
+37,18826.0,0H410,117000169.0,117000169.0,PRG,OK,OK
+38,20848.0,0H021,118000107.0,118000107.0,PPC,OK,OK
+39,21085.0,0H241,118000196.0,118000196.0,PRG,OK,OK
+40,18761.0,0E790,115000021.0,115000021.0,PRG,OK,OK
+41,20851.0,0H800,118000110.0,118000110.0,PPC,OK,OK
+42,19286.0,0H560,117000236.0,117000236.0,PRG,OK,OK
+43,17073.0,0F620,116000035.0,116000035.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+44,18992.0,0H431,117000214.0,117000214.0,PPC,OK,OK
+45,19288.0,0H580,117000238.0,117000238.0,PPC,OK,OK
+46,22312.0,0E031,120000011.0,120000011.0,PRG,OK,OK
+47,21375.0,0J410,119000025.0,119000025.0,PRG,OK,OK
+48,22632.0,0F471,120000124.0,120000124.0,PRG,OK,OK
+49,20872.0,0H840,118000117.0,118000117.0,PRG,OK,OK
+50,22636.0,0G331,120000076.0,120000076.0,PRG,OK,OK
+51,22637.0,0F491,120000077.0,120000077.0,PRG,OK,OK
+52,20909.0,0H880,118000122.0,118000122.0,PRG,OK,OK
+53,21069.0,0E081,118000172.0,118000172.0,PPC,OK,OK
+54,16421.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+55,16419.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+56,19029.0,0H460,117000226.0,117000226.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+57,17257.0,0F710,116000047.0,116000047.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+58,13550.0,0E110,113000125.0,113000125.0,PPC,OK,OK
+59,19291.0,0H600,117000240.0,117000240.0,PRG,OK,OK
+60,22536.0,40141,120000111.0,120000111.0,PRG,OK,OK
+61,9133.0,40110,100000154.0,100000154.0,PPC,OK,OK
+62,22342.0,43484,117000133.0,117000133.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+63,17110.0,0E111,115000109.0,115000109.0,PPC,OK,Project anchor performance items do not match CTIPS.
+64,13454.0,0B220,112000110.0,112000110.0,PPC,OK,OK
+65,9139.0,43480,100000672.0,100000672.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+66,18136.0,0G600,117000026.0,117000026.0,PPC,OK,OK
+67,19290.0,0H590,117000239.0,117000239.0,PRG,OK,OK
+68,19035.0,0H450,,117000225.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+69,21052.0,0J120,,118000171.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+70,23234.0,0E091,121000081.0,121000081.0,PRG,OK,OK
+71,13544.0,0E090,113000123.0,113000123.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+72,20852.0,0H810,118000111.0,118000111.0,PPC,OK,OK
+73,23068.0,0L420,122000008.0,122000008.0,PPC,OK,OK
+74,22000.0,0K310,120000062.0,120000062.0,PRG,OK,OK
+75,18674.0,0H160,117000117.0,117000117.0,PPC,OK,Project anchor performance items do not match CTIPS.
+76,22947.0,0L400,122000003.0,122000003.0,PRG,OK,OK
+77,22253.0,0K410,120000081.0,120000081.0,PPC,OK,OK
+78,19408.0,0H660,117000248.0,117000248.0,PRG,OK,OK
+79,18675.0,0H170,117000119.0,117000119.0,PRG,OK,OK
+80,22766.0,0L010,121000041.0,121000041.0,CCA,OK,OK
+81,22610.0,0K830,121000014.0,121000014.0,CCA,OK,OK
+82,19285.0,0H550,117000235.0,117000235.0,PRG,OK,OK
+83,21336.0,48400,113000106.0,113000106.0,PPC,OK,Project anchor performance value does not match CTIPS.
+84,13636.0,0F510,116000015.0,116000015.0,PPC,OK,OK
+85,18673.0,0H150,117000116.0,117000116.0,PRG,OK,OK
+86,19166.0,0A131,117000223.0,117000223.0,PPC,OK,OK
+87,11178.0,0B530,114000035.0,114000035.0,PPC,OK,OK
+88,22733.0,0L020,121000042.0,121000042.0,PRG,OK,Project anchor performance value does not match CTIPS.
+89,21921.0,0J631,120000030.0,120000030.0,PRG,OK,OK
+90,21146.0,0A841,118000130.0,118000130.0,PRG,OK,OK
+91,20847.0,0H780,118000106.0,118000106.0,PPC,OK,OK
+92,22488.0,1J750,220000124.0,220000124.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+93,22520.0,1J900,221000007.0,221000007.0,CCA,OK,OK
+94,19191.0,3H820,218000038.0,218000038.0,PRG,OK,OK
+95,22261.0,1J570,220000106.0,220000106.0,PRG,OK,OK
+96,19217.0,4H070,218000074.0,218000074.0,PPC,OK,OK
+97,22722.0,2J120,221000030.0,221000030.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+98,9290.0,0H570,215000052.0,215000052.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+99,19184.0,4H060,218000073.0,218000073.0,PRG,OK,Project anchor performance value does not match CTIPS.
+100,21694.0,0J640,219000145.0,219000145.0,PRG,OK,OK
+101,20976.0,4H440,218000119.0,218000119.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+102,22946.0,3J150,222000013.0,222000013.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+103,16788.0,1H790,216000043.0,216000043.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+104,11368.0,1H580,216000024.0,216000024.0,PPC,OK,OK
+105,19924.0,4H010,218000068.0,218000068.0,PRG,OK,Project anchor performance value does not match CTIPS.
+106,22721.0,2J060,221000024.0,221000024.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+107,19922.0,4H030,218000070.0,218000070.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+108,14187.0,3H690,218000010.0,218000010.0,PPC,OK,OK
+109,22978.0,3J100,222000008.0,222000008.0,PRG,OK,OK
+110,19174.0,3H680,218000006.0,218000006.0,PRG,OK,Project anchor performance value does not match CTIPS.
+111,23109.0,3J090,222000007.0,222000007.0,PRG,OK,OK
+112,22509.0,1J720,220000121.0,220000121.0,CCA,OK,OK
+113,19923.0,4H780,219000004.0,219000004.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+114,22746.0,2J160,221000035.0,221000035.0,CCA,OK,OK
+115,17247.0,1H720,216000033.0,216000033.0,PRG,OK,OK
+116,21675.0,0J680,219000149.0,219000149.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+117,19180.0,4H050,218000080.0,218000080.0,PPC,OK,OK
+118,21390.0,4H930,219000027.0,219000027.0,PRG,OK,OK
+119,16679.0,1H570,216000036.0,216000036.0,PPC,OK,OK
+120,22798.0,2J550,221000105.0,221000105.0,CCA,OK,OK
+121,16609.0,4G440,214000013.0,214000013.0,PPC,OK,OK
+122,15879.0,1h520,217000009.0,217000009.0,PPC,OK,Project anchor performance items do not match CTIPS.
+123,16809.0,1h710,217000013.0,217000013.0,PRG,OK,Project anchor performance value does not match CTIPS.
+124,14182.0,1H480,216000019.0,216000019.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+125,16682.0,3H320,217000097.0,217000097.0,PRG,OK,Project anchor performance value does not match CTIPS.
+126,15794.0,1h400,216000042.0,216000042.0,PRG,OK,Project anchor performance items do not match CTIPS.
+127,13255.0,4F520,213000002.0,213000002.0,PPC,OK,OK
+128,19216.0,3H650,218000004.0,218000004.0,PRG,OK,Project anchor performance value does not match CTIPS.
+129,17215.0,2H130,216000114.0,216000114.0,PRG,OK,Project anchor performance value does not match CTIPS.
+130,22891.0,2J700,221000126.0,221000126.0,PRG,OK,OK
+131,22735.0,2J460,221000080.0,221000080.0,CCA,OK,OK
+132,22884.0,2J510,221000086.0,221000086.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+133,22603.0,2J110,221000029.0,221000029.0,CCA,OK,OK
+134,17233.0,1H590,216000025.0,216000025.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+135,21005.0,4H660,219000001.0,219000001.0,PRG,OK,OK
+136,16639.0,1H360,216000040.0,216000040.0,PPC,OK,OK
+137,22980.0,3J040,222000001.0,222000001.0,PRG,OK,OK
+138,19921.0,4H000,218000067.0,218000067.0,PRG,OK,OK
+139,23055.0,3J030,221000165.0,221000165.0,PRG,OK,OK
+140,9205.0,1H470,216000044.0,216000044.0,PPC,OK,OK
+141,9376.0,1H680,216000010.0,216000010.0,PPC,OK,OK
+142,19218.0,4H020,218000069.0,218000069.0,PPC,OK,OK
+143,19489.0,4H710,219000010.0,219000010.0,PRG,OK,OK
+144,19182.0,3H770,218000039.0,218000039.0,PRG,OK,OK
+145,21484.0,0J010,219000044.0,219000044.0,PPC,OK,OK
+146,15816.0,1H510,216000148.0,216000148.0,PPC,OK,OK
+147,22999.0,3J220,222000021.0,222000021.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+148,16672.0,1H500,216000045.0,216000045.0,PPC,OK,Project anchor performance items do not match CTIPS.
+149,22723.0,2J140,221000032.0,221000032.0,PRG,OK,OK
+150,22761.0,2J470,221000081.0,221000081.0,PRG,OK,OK
+151,23000.0,3J190,222000018.0,222000018.0,PRG,OK,OK
+152,16687.0,2H810,217000012.0,217000012.0,PPC,OK,OK
+153,22793.0,2J530,221000088.0,221000088.0,CCA,OK,OK
+154,19049.0,3H700,218000011.0,218000011.0,PRG,OK,OK
+155,16798.0,1h700,216000049.0,216000049.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+156,21443.0,4H880,319000071.0,319000071.0,PPC,OK,OK
+157,16917.0,4H760,319000046.0,319000046.0,PRG,OK,OK
+158,22824.0,0J921,321000159.0,321000159.0,PRG,OK,OK
+159,21796.0,0J700,320000004.0,320000004.0,PRG,OK,OK
+160,20723.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+161,22810.0,1J920,321000148.0,321000148.0,CCA,OK,OK
+162,21798.0,0J720,320000006.0,320000006.0,PPC,OK,OK
+163,18913.0,3H540,318000012.0,318000012.0,PRG,OK,OK
+164,16915.0,1H140,316000060.0,316000060.0,PRG,OK,OK
+165,16789.0,1H860,317000010.0,317000010.0,PPC,OK,Project anchor performance value does not match CTIPS.
+166,23087.0,2G600,322000038.0,322000038.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+167,22570.0,1J760,321000059.0,321000059.0,PRG,OK,OK
+168,21899.0,0J870,320000035.0,320000035.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+169,22565.0,1J720,321000053.0,321000053.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+170,13604.0,0H650,316000003.0,316000003.0,PPC,OK,OK
+171,13700.0,1H040,,316000050.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+172,13701.0,1H800,,317000003.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+173,21797.0,0J710,320000005.0,320000005.0,PRG,OK,OK
+174,21444.0,4H890,319000072.0,319000072.0,PPC,OK,OK
+175,13840.0,3F500,313000019.0,313000019.0,PPC,OK,OK
+176,9258.0,3F060,312000052.0,312000052.0,PPC,OK,OK
+177,15996.0,4H070,318000158.0,318000158.0,PPC,OK,Project anchor performance items do not match CTIPS.
+178,16783.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+179,13605.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+180,16784.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+181,17718.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+182,16781.0,0H690,316000006.0,316000006.0,PPC,OK,OK
+183,16289.0,0H210,315000112.0,315000112.0,PPC,OK,OK
+184,16364.0,1H990,317000043.0,317000043.0,PPC,OK,Project anchor performance value does not match CTIPS.
+185,16761.0,1H840,317000008.0,317000008.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+186,16916.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+187,22545.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+188,16297.0,1H010,316000046.0,316000046.0,PPC,OK,OK
+189,17862.0,2H000,317000044.0,317000044.0,CCA,OK,OK
+190,15981.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+191,13311.0,3H560,318000014.0,318000014.0,PRG,OK,Project anchor performance items do not match CTIPS.
+192,13473.0,3F680,313000047.0,313000047.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+193,20491.0,0J010,319000184.0,319000184.0,PPC,OK,OK
+194,22825.0,0J922,321000161.0,321000161.0,PRG,OK,OK
+195,21162.0,4H600,319000004.0,319000004.0,PPC,OK,OK
+196,15715.0,0H720,316000008.0,316000008.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+197,18428.0,3H590,318000017.0,318000017.0,PPC,OK,OK
+198,16940.0,1H030,316000049.0,316000049.0,PPC,OK,OK
+199,18435.0,3H610,318000019.0,318000019.0,PPC,OK,OK
+200,21900.0,0J880,320000036.0,320000036.0,CCA,OK,OK
+201,18460.0,4H980,319000129.0,319000129.0,PRG,OK,Project anchor performance value does not match CTIPS.
+202,16563.0,2H130,317000066.0,317000066.0,PPC,OK,OK
+203,19807.0,3H390,317000340.0,317000340.0,PPC,OK,OK
+204,14046.0,1H850,317000009.0,317000009.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+205,16779.0,1H130,316000059.0,316000059.0,PPC,OK,Project anchor performance items do not match CTIPS.
+206,15866.0,1H100,316000056.0,316000056.0,PPC,OK,Project anchor performance items do not match CTIPS.
+207,18448.0,3H330,317000325.0,317000325.0,PPC,OK,Project anchor performance value does not match CTIPS.
+208,17116.0,1F150,300001101.0,300001101.0,PPC,OK,OK
+209,18745.0,4H970,319000128.0,319000128.0,PRG,OK,Project anchor performance items do not match CTIPS.
+210,16358.0,1H820,317000006.0,317000006.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+211,21914.0,0J920,320000041.0,320000041.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+212,22929.0,0J923,321000212.0,321000212.0,PRG,OK,OK
+213,9301.0,2H110,317000064.0,317000064.0,PPC,OK,OK
+214,13289.0,3F070,312000054.0,312000054.0,PPC,OK,OK
+215,20560.0,3H730,318000055.0,318000055.0,PRG,OK,OK
+216,14153.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+217,16362.0,1H190,316000065.0,316000065.0,PPC,OK,OK
+218,13722.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+219,14047.0,0H670,316000005.0,316000005.0,PPC,OK,Project anchor performance items do not match CTIPS.
+220,19757.0,1H630,316000193.0,316000193.0,PRG,OK,OK
+221,21983.0,1J010,320000059.0,320000059.0,PPC,OK,OK
+222,15716.0,0H680,316000010.0,316000010.0,CCA,OK,OK
+223,21907.0,0J900,320000039.0,320000039.0,PRG,OK,OK
+224,16780.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+225,21849.0,0J860,320000034.0,320000034.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+226,22316.0,4H870,319000070.0,319000070.0,PRG,OK,OK
+227,21910.0,0J910,320000040.0,320000040.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+228,21354.0,4F171,318000208.0,318000208.0,PPC,OK,OK
+229,15714.0,1H870,317000011.0,317000011.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+230,16390.0,4F650,314000233.0,314000233.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+231,13124.0,3F560,313000033.0,313000033.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+232,16337.0,0H370,315000151.0,315000151.0,PPC,OK,Project anchor performance value does not match CTIPS.
+233,15830.0,1H270,316000082.0,316000082.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+234,16336.0,0H160,315000082.0,315000082.0,PPC,OK,Project anchor performance value does not match CTIPS.
+235,16804.0,4J490,415000356.0,415000356.0,PPC,OK,OK
+236,18510.0,0P890,418000023.0,418000023.0,PRG,OK,OK
+237,21624.0,2G461,419000091.0,419000091.0,PRG,OK,OK
+238,16757.0,0K120,416000054.0,416000054.0,PPC,OK,OK
+239,20328.0,2Q720,419000042.0,419000042.0,PRG,OK,OK
+240,18161.0,4K400,417000306.0,417000306.0,PPC,OK,OK
+241,16795.0,2K710,417000013.0,417000013.0,PPC,OK,OK
+242,21450.0,15500,414000106.0,414000106.0,PPC,OK,Project anchor performance items do not match CTIPS.
+243,22899.0,1W990,421000116.0,421000116.0,PRG,OK,OK
+244,16765.0,3J260,415000110.0,415000110.0,PRG,OK,OK
+245,21482.0,3Q850,419000272.0,419000272.0,PRG,OK,OK
+246,22518.0,16031,420000250.0,420000250.0,PRG,OK,OK
+247,9239.0,0J550,414000012.0,414000012.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+248,19021.0,1K510,416000256.0,416000256.0,PRG,OK,Project anchor performance value does not match CTIPS.
+249,20824.0,0Q450,418000101.0,418000101.0,PRG,OK,OK
+250,13860.0,2G780,400021222.0,400021222.0,PPC,OK,Project anchor performance items do not match CTIPS.
+251,13654.0,0K490,416000094.0,416000094.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+252,16381.0,2G740,400021215.0,400021215.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+253,16042.0,2K790,417000023.0,417000023.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+254,22865.0,2W740,421000266.0,421000266.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+255,16596.0,4J940,416000025.0,416000025.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+256,22499.0,0K681,420000264.0,420000264.0,PRG,OK,OK
+257,18120.0,0K680,416000125.0,416000125.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+258,20825.0,0P120,417000401.0,417000401.0,PPC,OK,OK
+259,17020.0,2K950,417000057.0,417000057.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+260,15955.0,0Q100,418000044.0,418000044.0,PRG,OK,Project anchor performance items do not match CTIPS.
+261,17164.0,0k530,416000099.0,416000099.0,PRG,OK,Project anchor performance items do not match CTIPS.
+262,18505.0,0P900,418000024.0,418000024.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+263,22725.0,1W540,421000047.0,421000047.0,CCA,OK,OK
+264,17148.0,0K770,416000137.0,416000137.0,PPC,OK,OK
+265,17147.0,0K650,416000123.0,416000123.0,PPC,OK,OK
+266,16746.0,3J130,415000090.0,415000090.0,PPC,OK,OK
+267,21089.0,2q760,419000046.0,419000046.0,PRG,OK,Project anchor performance items do not match CTIPS.
+268,20833.0,0Q680,418000132.0,418000132.0,PRG,OK,OK
+269,18955.0,0P920,418000026.0,418000026.0,PRG,OK,OK
+270,18957.0,0P910,418000025.0,418000025.0,PRG,OK,OK
+271,13351.0,0J620,414000019.0,414000019.0,PPC,OK,Project anchor performance items do not match CTIPS.
+272,22634.0,0J624,,420000234.0,TYP,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+273,23072.0,3W520,421000384.0,421000384.0,PRG,OK,Project anchor performance items do not match CTIPS.
+274,13655.0,2K700,417000010.0,417000010.0,PPC,OK,Project anchor performance value does not match CTIPS.
+275,16947.0,4J980,416000036.0,416000036.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+276,22583.0,1W210,420000347.0,420000347.0,CCA,OK,OK
+277,17979.0,2K170,416000378.0,416000378.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+278,17369.0,4J540,415000365.0,415000365.0,PPC,OK,OK
+279,13562.0,2J760,415000005.0,415000005.0,PPC,OK,Project anchor performance items do not match CTIPS.
+280,22687.0,1W420,421000014.0,421000014.0,CCA,OK,OK
+281,14116.0,2K820,417000035.0,417000035.0,PPC,OK,OK
+282,22879.0,2W340,421000185.0,421000185.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+283,19064.0,0Q180,418000048.0,418000048.0,PRG,OK,OK
+284,16829.0,2Q740,419000044.0,419000044.0,PRG,OK,Project anchor performance items do not match CTIPS.
+285,18071.0,3K360,417000136.0,417000136.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+286,14017.0,1J780,414000357.0,414000357.0,PPC,OK,OK
+287,18719.0,2Q540,419000023.0,419000023.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+288,21120.0,2Q250,418000442.0,418000442.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+289,18532.0,3K510,417000174.0,417000174.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+290,18979.0,2Q700,419000040.0,419000040.0,PRG,OK,Project anchor performance value does not match CTIPS.
+291,13259.0,0J480,414000004.0,414000004.0,PRG,OK,Project anchor performance value does not match CTIPS.
+292,19883.0,0Q200,418000050.0,418000050.0,PRG,OK,OK
+293,17983.0,3K440,417000161.0,417000161.0,PRG,OK,OK
+294,14063.0,2K720,417000014.0,417000014.0,PRG,OK,Project anchor performance value does not match CTIPS.
+295,22892.0,2W670,421000250.0,421000250.0,CCA,OK,OK
+296,14075.0,4J950,416000026.0,416000026.0,PRG,OK,OK
+297,16745.0,3J140,415000091.0,415000091.0,PPC,OK,OK
+298,14145.0,4J840,416000027.0,416000027.0,PPC,OK,OK
+299,22710.0,0W610,420000273.0,420000273.0,CCA,OK,OK
+300,19065.0,0Q210,418000051.0,418000051.0,PRG,OK,Project anchor performance value does not match CTIPS.
+301,17370.0,0K160,416000044.0,416000044.0,PPC,OK,OK
+302,22056.0,0W080,420000170.0,420000170.0,PRG,OK,OK
+303,23213.0,3W770,422000034.0,422000034.0,PRG,OK,OK
+304,11282.0,0P930,418000027.0,418000027.0,PRG,OK,OK
+305,13352.0,3J070,415000077.0,415000077.0,PRG,OK,Project anchor performance value does not match CTIPS.
+306,22068.0,4G891,420000074.0,420000074.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+307,19069.0,2Q650,419000034.0,419000034.0,PRG,OK,OK
+308,17182.0,1Q720,418000321.0,418000321.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+309,23050.0,3W530,421000385.0,421000385.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+310,22934.0,3W750,422000032.0,422000032.0,PRG,OK,Project anchor performance items do not match CTIPS.
+311,14149.0,0P960,418000030.0,418000030.0,PRG,OK,OK
+312,21582.0,0AA48,419000480.0,419000480.0,PRG,OK,OK
+313,22188.0,0W130,420000179.0,420000179.0,PRG,OK,OK
+314,23183.0,2Q53U,422000077.0,422000077.0,PRG,OK,Project anchor performance value does not match CTIPS.
+315,13573.0,1J960,414000403.0,414000403.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+316,21581.0,0AA44,419000476.0,419000476.0,PRG,OK,OK
+317,20901.0,0G642,413000350.0,413000350.0,PPC,OK,OK
+318,16697.0,2J510,414000524.0,414000524.0,PRG,OK,OK
+319,13658.0,2K740,417000018.0,417000018.0,PRG,OK,OK
+320,20749.0,2Q500,419000019.0,419000019.0,PRG,OK,OK
+321,22936.0,3W390,421000352.0,421000352.0,PRG,OK,OK
+322,22714.0,1W580,421000054.0,421000054.0,CCA,OK,OK
+323,14050.0,4J860,416000042.0,416000042.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+324,14135.0,0K510,416000096.0,416000096.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+325,16240.0,0K800,416000141.0,416000141.0,PPC,OK,Project anchor performance value does not match CTIPS.
+326,22054.0,0W100,420000172.0,420000172.0,PRG,OK,OK
+327,17841.0,1Q230,418000221.0,418000221.0,PPC,OK,OK
+328,20827.0,0Q690,418000137.0,418000137.0,PPC,OK,OK
+329,16241.0,0K000,416000040.0,416000040.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+330,16701.0,4J410,415000343.0,415000343.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+331,20511.0,2Q610,419000030.0,419000030.0,PRG,OK,Project anchor performance value does not match CTIPS.
+332,20828.0,0Q820,418000159.0,418000159.0,PRG,OK,OK
+333,18668.0,0P730,417000512.0,417000512.0,PRG,OK,OK
+334,15831.0,0K630,416000111.0,416000111.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+335,17122.0,4j300,415000320.0,415000320.0,PRG,OK,Project anchor performance items do not match CTIPS.
+336,16948.0,4J990,416000037.0,416000037.0,PPC,OK,OK
+337,22607.0,1W630,421000061.0,421000061.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+338,21391.0,2J88U,418000401.0,418000401.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+339,22910.0,2W760,421000273.0,421000273.0,PRG,OK,OK
+340,20829.0,0Q830,418000160.0,418000160.0,PRG,OK,OK
+341,21535.0,3Q760,419000570.0,419000570.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+342,21066.0,4G21A,418000217.0,418000217.0,PPC,OK,OK
+343,20323.0,1Q620,418000310.0,418000310.0,PPC,OK,OK
+344,15795.0,4J820,416000041.0,416000041.0,PRG,OK,Project anchor performance items do not match CTIPS.
+345,15665.0,0J890,414000097.0,414000097.0,PRG,OK,OK
+346,20831.0,0Q790,418000153.0,418000153.0,PRG,OK,OK
+347,20832.0,0Q810,418000158.0,418000158.0,PPC,OK,OK
+348,22572.0,1W480,421000028.0,421000028.0,PRG,OK,Project anchor performance value does not match CTIPS.
+349,13624.0,4J830,416000038.0,416000038.0,PPC,OK,OK
+350,21461.0,1G43A,418000436.0,418000436.0,PRG,OK,OK
+351,21506.0,4G84A,419000004.0,419000004.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+352,18063.0,3K420,417000157.0,417000157.0,PRG,OK,OK
+353,20320.0,1Q820,418000341.0,418000341.0,PRG,OK,OK
+354,16071.0,4J970,416000048.0,416000048.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+355,17980.0,2K190,416000380.0,416000380.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+356,19051.0,2Q460,419000015.0,419000015.0,PRG,OK,OK
+357,19052.0,0Q020,418000036.0,418000036.0,PRG,OK,OK
+358,22744.0,1W980,421000115.0,421000115.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+359,22720.0,2W250,421000161.0,421000161.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+360,17844.0,0Q120,418000045.0,418000045.0,PRG,OK,OK
+361,22576.0,1W520,421000038.0,421000038.0,CCA,OK,OK
+362,17239.0,0K570,416000105.0,416000105.0,PRG,OK,OK
+363,16793.0,4J870,416000029.0,416000029.0,PRG,OK,Project anchor performance items do not match CTIPS.
+364,17547.0,2K880,417000040.0,417000040.0,PRG,OK,Project anchor performance items do not match CTIPS.
+365,18669.0,0Q130,418000053.0,418000053.0,PRG,OK,Project anchor performance items do not match CTIPS.
+366,13567.0,2J790,415000014.0,415000014.0,PPC,OK,Project anchor performance items do not match CTIPS.
+367,20813.0,0Q670,418000134.0,418000134.0,PRG,OK,OK
+368,20676.0,0Q610,418000123.0,418000123.0,PRG,OK,OK
+369,19068.0,0Q440,418000096.0,418000096.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+370,22053.0,0W070,420000169.0,420000169.0,PRG,OK,OK
+371,18162.0,0Q040,418000038.0,418000038.0,PRG,OK,OK
+372,22058.0,2AC90,420000125.0,420000125.0,PPC,OK,OK
+373,13297.0,1Q530,418000291.0,418000291.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+374,13686.0,0K810,416000142.0,416000142.0,PPC,OK,OK
+375,13253.0,1G900,400020619.0,400020619.0,PPC,OK,OK
+376,17240.0,0K670,416000124.0,416000124.0,PPC,OK,OK
+377,18099.0,2K610,416000472.0,416000472.0,PPC,OK,OK
+378,18100.0,2K640,416000480.0,416000480.0,PRG,OK,OK
+379,20815.0,0Q480,418000107.0,418000107.0,PRG,OK,OK
+380,22712.0,0W120,420000176.0,420000176.0,PRG,OK,OK
+381,13664.0,0K780,416000138.0,416000138.0,PRG,OK,Project anchor performance items do not match CTIPS.
+382,17968.0,1Q200,418000215.0,418000215.0,PPC,OK,OK
+383,22911.0,1Q581,421000262.0,421000262.0,PRG,OK,Project anchor performance items do not match CTIPS.
+384,22971.0,1Q582,421000263.0,421000263.0,PRG,OK,Project anchor performance items do not match CTIPS.
+385,9250.0,2J740,415000010.0,415000010.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+386,22743.0,2W310,421000181.0,421000181.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+387,9224.0,2J730,415000004.0,415000004.0,PPC,OK,OK
+388,13745.0,0Q070,418000041.0,418000041.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+389,14180.0,4J850,416000028.0,416000028.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+390,13830.0,2A970,412000161.0,412000161.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+391,23073.0,3W550,421000387.0,421000387.0,PRG,OK,Project anchor performance items do not match CTIPS.
+392,22059.0,3AC10,420000127.0,420000127.0,PRG,OK,OK
+393,16752.0,0K070,416000033.0,416000033.0,PPC,OK,OK
+394,9188.0,3G630,412000409.0,412000409.0,PPC,OK,Project anchor performance items do not match CTIPS.
+395,18093.0,2K280,416000400.0,416000400.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+396,16743.0,2J950,415000043.0,415000043.0,PPC,OK,OK
+397,14169.0,0P970,418000031.0,418000031.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+398,22558.0,0W170,420000187.0,420000187.0,PRG,OK,OK
+399,21838.0,0P48U,419000296.0,419000296.0,PPC,OK,OK
+400,9356.0,0P980,418000032.0,418000032.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+401,16242.0,0K010,416000020.0,416000020.0,PPC,OK,Project anchor performance items do not match CTIPS.
+402,13662.0,4J890,416000023.0,416000023.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+403,22062.0,3AC30,420000129.0,420000129.0,PRG,OK,OK
+404,13685.0,4J910,416000010.0,416000010.0,PPC,OK,OK
+405,16754.0,0K110,416000053.0,416000053.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+406,17230.0,4J030,415000245.0,415000245.0,PPC,OK,Project anchor performance value does not match CTIPS.
+407,20706.0,2Q570,419000026.0,419000026.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+408,16043.0,4J930,416000017.0,416000017.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+409,22875.0,2W390,421000191.0,421000191.0,PRG,OK,OK
+410,22707.0,0W680,420000277.0,420000277.0,CCA,OK,OK
+411,22589.0,1W620,421000058.0,421000058.0,PRG,OK,OK
+412,22575.0,1W510,421000037.0,421000037.0,PRG,OK,OK
+413,23301.0,3W840,422000051.0,422000051.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+414,14073.0,2K800,417000025.0,417000025.0,PPC,OK,Project anchor performance value does not match CTIPS.
+415,18489.0,0Q050,418000039.0,418000039.0,PRG,OK,OK
+416,21449.0,3Q650,419000235.0,419000235.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+417,16957.0,0k240,416000060.0,416000060.0,PRG,OK,OK
+418,23051.0,3W540,421000386.0,421000386.0,PRG,OK,OK
+419,20642.0,1Q460,418000279.0,418000279.0,PRG,OK,OK
+420,14080.0,4J960,416000024.0,416000024.0,PPC,OK,OK
+421,22848.0,0W420,420000232.0,420000232.0,CCA,OK,OK
+422,18584.0,1Q520,418000290.0,418000290.0,PPC,OK,OK
+423,16748.0,0K080,416000049.0,416000049.0,PPC,OK,OK
+424,22063.0,3AC40,420000130.0,420000130.0,PRG,OK,OK
+425,22189.0,0W110,420000173.0,420000173.0,PRG,OK,OK
+426,18756.0,2Q550,419000024.0,419000024.0,PRG,OK,OK
+427,22956.0,0J631,421000252.0,421000252.0,PRG,OK,OK
+428,11296.0,0J630,414000020.0,414000020.0,PPC,OK,OK
+429,22969.0,0J632,421000253.0,421000253.0,PRG,OK,OK
+430,22970.0,0J633,421000254.0,421000254.0,PRG,OK,OK
+431,17853.0,2Q520,419000021.0,419000021.0,PPC,OK,OK
+432,23053.0,3W760,422000033.0,422000033.0,PRG,OK,OK
+433,22578.0,0W580,420000266.0,420000266.0,CCA,OK,OK
+434,19073.0,0Q190,418000049.0,418000049.0,PRG,OK,OK
+435,22762.0,4G873,421000042.0,421000042.0,PRG,OK,OK
+436,15957.0,0k640,416000112.0,416000112.0,PRG,OK,Project anchor performance value does not match CTIPS.
+437,16069.0,2K810,417000028.0,417000028.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+438,22574.0,1W490,421000029.0,421000029.0,CCA,OK,OK
+439,18425.0,4K300,417000293.0,417000293.0,PRG,OK,OK
+440,22763.0,0J601,420000359.0,420000359.0,PRG,OK,OK
+441,14021.0,0J600,414000017.0,414000017.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+442,23071.0,3W560,421000388.0,421000388.0,PRG,OK,Project anchor performance items do not match CTIPS.
+443,13248.0,4H060,413000081.0,413000081.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+444,18555.0,1Q570,418000297.0,418000297.0,PRG,OK,OK
+445,20817.0,0Q710,418000139.0,418000139.0,PPC,OK,OK
+446,20885.0,0K100,416000050.0,416000050.0,PPC,OK,OK
+447,17969.0,0P760,417000518.0,417000518.0,PPC,OK,OK
+448,13918.0,4G780,413000178.0,413000178.0,PPC,OK,OK
+449,17509.0,1K720,416000306.0,416000306.0,PRG,OK,Project anchor performance items do not match CTIPS.
+450,22792.0,0A021,421000087.0,421000087.0,PRG,OK,OK
+451,22791.0,0A022,421000088.0,421000088.0,PRG,OK,OK
+452,21794.0,0A020,400000129.0,400000129.0,PPC,OK,OK
+453,22623.0,1W550,421000048.0,421000048.0,CCA,OK,OK
+454,20462.0,1Q340,418000242.0,418000242.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+455,17396.0,0J300,413000433.0,413000433.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+456,22581.0,1W500,421000034.0,421000034.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+457,17510.0,1K730,416000307.0,416000307.0,PPC,OK,OK
+458,17511.0,1K750,416000309.0,416000309.0,PPC,OK,OK
+459,17574.0,1K760,416000310.0,416000310.0,PRG,OK,OK
+460,13338.0,0k520,416000098.0,416000098.0,PRG,OK,Project anchor performance value does not match CTIPS.
+461,21302.0,2Q780,419000048.0,419000048.0,PRG,OK,OK
+462,16750.0,0K130,416000045.0,416000045.0,PPC,OK,OK
+463,20581.0,1Q480,418000281.0,418000281.0,PRG,OK,OK
+464,20471.0,2Q200,418000432.0,418000432.0,PRG,OK,OK
+465,16820.0,3J080,415000078.0,415000078.0,PPC,OK,Project anchor performance items do not match CTIPS.
+466,22249.0,0J101,419000576.0,419000576.0,PRG,OK,Project anchor performance value does not match CTIPS.
+467,17981.0,2K240,416000394.0,416000394.0,PRG,OK,Project anchor performance value does not match CTIPS.
+468,18831.0,1Q700,418000319.0,418000319.0,PRG,OK,OK
+469,18107.0,2K350,416000409.0,416000409.0,PRG,OK,OK
+470,23052.0,3W570,421000389.0,421000389.0,PRG,OK,OK
+471,21793.0,0AA63,419000524.0,419000524.0,PRG,OK,OK
+472,18108.0,2K360,416000410.0,416000410.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+473,16698.0,4J460,415000351.0,415000351.0,PPC,OK,OK
+474,11283.0,2Q420,419000011.0,419000011.0,PRG,OK,OK
+475,21301.0,2Q770,419000047.0,419000047.0,PRG,OK,OK
+476,20662.0,3G900,412000557.0,412000557.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+477,18572.0,2Q440,419000013.0,419000013.0,PRG,OK,OK
+478,20821.0,4K140,417000267.0,417000267.0,PRG,OK,OK
+479,22782.0,2W330,421000183.0,421000183.0,PRG,OK,OK
+480,19490.0,1K020,518000106.0,518000106.0,PRG,OK,OK
+481,22753.0,1M800,520000074.0,520000074.0,CCA,OK,OK
+482,22772.0,1N420,521000016.0,521000016.0,PRG,OK,OK
+483,22626.0,1M780,520000072.0,520000072.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+484,22831.0,1N410,521000015.0,521000015.0,PRG,OK,OK
+485,13298.0,1H490,516000081.0,516000081.0,PPC,OK,OK
+486,22905.0,1N430,521000017.0,521000017.0,PRG,OK,OK
+487,21771.0,1M460,519000154.0,519000154.0,PRG,OK,OK
+488,20870.0,1K080,518000118.0,518000118.0,PRG,OK,OK
+489,19492.0,1K050,518000114.0,518000114.0,PPC,OK,OK
+490,17668.0,1H800,516000163.0,516000163.0,PPC,OK,OK
+491,16929.0,1H460,516000077.0,516000077.0,PPC,OK,OK
+492,21156.0,1K860,519000033.0,519000033.0,CCA,OK,OK
+493,19084.0,1J880,518000083.0,518000083.0,PRG,OK,OK
+494,16705.0,1H220,516000041.0,516000041.0,PPC,OK,OK
+495,13670.0,1H000,516000011.0,516000011.0,PPC,OK,Project anchor performance value does not match CTIPS.
+496,18637.0,1J460,517000113.0,517000113.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+497,22221.0,1F821,520000070.0,520000070.0,PRG,OK,OK
+498,20888.0,0T991,516000125.0,516000125.0,PPC,OK,OK
+499,19093.0,1K440,518000208.0,518000208.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+500,9189.0,0F970,513000017.0,513000017.0,PPC,OK,Project anchor performance items do not match CTIPS.
+501,15757.0,1H050,516000018.0,516000018.0,PPC,OK,OK
+502,9289.0,1H690,516000140.0,516000140.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+503,22709.0,1H691,521000065.0,521000065.0,PRG,OK,OK
+504,9195.0,0A090,513000028.0,513000028.0,PPC,OK,OK
+505,19091.0,1K430,518000207.0,518000207.0,PRG,OK,OK
+506,17521.0,1H650,516000118.0,516000118.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+507,13863.0,1H230,516000042.0,516000042.0,PRG,OK,Project anchor performance value does not match CTIPS.
+508,17726.0,1H810,516000164.0,516000164.0,PPC,OK,OK
+509,22812.0,1J481,521000064.0,521000064.0,PRG,OK,OK
+510,18768.0,1J480,517000185.0,517000185.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+511,9228.0,1H440,516000074.0,516000074.0,PPC,OK,Project anchor performance items do not match CTIPS.
+512,15922.0,1G980,516000009.0,516000009.0,PPC,OK,OK
+513,21818.0,0L724,519000054.0,519000054.0,PPC,OK,OK
+514,21819.0,0L725,519000055.0,519000055.0,PPC,OK,OK
+515,23094.0,1P030,521000159.0,521000159.0,PRG,OK,OK
+516,20893.0,49285,517000046.0,517000046.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+517,21154.0,1K850,519000032.0,519000032.0,PRG,OK,OK
+518,21163.0,1K720,519000001.0,519000001.0,PRG,OK,OK
+519,23317.0,1P040,521000160.0,521000160.0,PRG,OK,OK
+520,19163.0,1K460,518000210.0,518000210.0,PRG,OK,OK
+521,19162.0,1J970,518000095.0,518000095.0,PRG,OK,OK
+522,21820.0,0L726,519000056.0,519000056.0,PPC,OK,OK
+523,19164.0,1J860,518000081.0,518000081.0,PPC,OK,OK
+524,18520.0,1J440,517000101.0,517000101.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+525,22372.0,1N340,520000168.0,520000168.0,PRG,OK,OK
+526,13853.0,0N220,516000007.0,516000007.0,PPC,OK,Project anchor performance items do not match CTIPS.
+527,22486.0,1N350,520000173.0,520000173.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+528,18915.0,1J710,518000035.0,518000035.0,CCA,OK,OK
+529,20710.0,1J780,518000052.0,518000052.0,PRG,OK,OK
+530,22186.0,1M740,520000058.0,520000058.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+531,20004.0,1P230,522000002.0,522000002.0,PRG,OK,OK
+532,20011.0,1K680,518000234.0,518000234.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+533,21349.0,0A051,518000097.0,518000097.0,PRG,OK,OK
+534,9242.0,1F810,514000063.0,514000063.0,PRG,OK,OK
+535,16474.0,1H610,516000097.0,516000097.0,PPC,OK,OK
+536,19095.0,1E030,513000026.0,513000026.0,PPC,OK,OK
+537,22356.0,1C8A2,520000053.0,520000053.0,PPC,OK,OK
+538,22355.0,1C8A1,520000052.0,520000052.0,PRG,OK,OK
+539,22304.0,1C8B2,520000064.0,520000064.0,PRG,OK,OK
+540,13649.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+541,22303.0,1C8B1,520000063.0,520000063.0,PRG,OK,OK
+542,22736.0,1C8B3,521000072.0,521000072.0,PRG,OK,OK
+543,22308.0,1C8C2,520000147.0,520000147.0,PPC,OK,OK
+544,22307.0,1C8C1,520000066.0,520000066.0,PRG,OK,OK
+545,19946.0,1C824,519000053.0,519000053.0,PPC,OK,OK
+546,22747.0,1C843,521000089.0,521000089.0,PRG,OK,OK
+547,13254.0,1E040,513000027.0,513000027.0,PPC,OK,OK
+548,13626.0,1H430,516000073.0,516000073.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+549,11278.0,1C950,513000018.0,513000018.0,PPC,OK,Project anchor performance items do not match CTIPS.
+550,15920.0,1H860,517000002.0,517000002.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+551,19150.0,1K450,518000209.0,518000209.0,PPC,OK,Project anchor performance items do not match CTIPS.
+552,22322.0,1F791,520000139.0,520000139.0,PPC,OK,OK
+553,19147.0,1K510,518000215.0,518000215.0,PRG,OK,OK
+554,20944.0,1F501,520000069.0,520000069.0,PRG,OK,OK
+555,16575.0,1H850,517000001.0,517000001.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+556,18028.0,1H960,517000039.0,517000039.0,PPC,OK,OK
+557,15921.0,1G970,516000008.0,516000008.0,PPC,OK,OK
+558,18671.0,1J470,517000184.0,517000184.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+559,19153.0,1K520,518000216.0,518000216.0,PRG,OK,OK
+560,9271.0,1C410,512000139.0,512000139.0,PPC,OK,OK
+561,13846.0,1H310,516000060.0,516000060.0,PRG,OK,OK
+562,17105.0,1C420,512000141.0,512000141.0,PPC,OK,OK
+563,21153.0,1M370,519000130.0,519000130.0,PRG,OK,OK
+564,14098.0,1H450,516000075.0,516000075.0,PPC,OK,OK
+565,20910.0,1K100,518000122.0,518000122.0,PRG,OK,OK
+566,11249.0,1C360,512000134.0,512000134.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+567,13671.0,1H010,516000012.0,516000012.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+568,16475.0,1G960,516000006.0,516000006.0,PPC,OK,OK
+569,19158.0,1K640,518000239.0,518000239.0,PRG,OK,Project anchor performance value does not match CTIPS.
+570,19159.0,1J960,518000093.0,518000093.0,PRG,OK,Project anchor performance value does not match CTIPS.
+571,16590.0,1H480,516000079.0,516000079.0,PPC,OK,Project anchor performance items do not match CTIPS.
+572,22942.0,0J201,522000010.0,522000010.0,PRG,OK,OK
+573,9294.0,0J200,512000069.0,512000069.0,PPC,OK,OK
+574,22625.0,1M650,520000046.0,520000046.0,PRG,OK,OK
+575,19493.0,1K120,518000125.0,518000125.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+576,21693.0,1M400,519000136.0,519000136.0,PRG,OK,OK
+577,13752.0,1G950,516000005.0,516000005.0,PPC,OK,OK
+578,19495.0,1K060,518000115.0,518000115.0,PRG,OK,OK
+579,15835.0,1H470,516000078.0,516000078.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+580,19496.0,1K130,518000126.0,518000126.0,PPC,OK,OK
+581,21589.0,1M330,519000115.0,519000115.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+582,22754.0,1M810,520000075.0,520000075.0,CCA,OK,OK
+583,22182.0,1M730,520000055.0,520000055.0,PPC,OK,OK
+584,20869.0,1K070,518000117.0,518000117.0,PPC,OK,OK
+585,14033.0,1G260,514000131.0,514000131.0,PPC,OK,Project anchor performance value does not match CTIPS.
+586,19155.0,1J830,518000078.0,518000078.0,PPC,OK,OK
+587,15672.0,1F620,514000039.0,514000039.0,PPC,OK,OK
+588,22628.0,1M790,520000073.0,520000073.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+589,21770.0,1M450,519000153.0,519000153.0,PRG,OK,OK
+590,23027.0,1E210,621000226.0,621000226.0,PRG,OK,OK
+591,22380.0,1A750,620000180.0,620000180.0,PRG,OK,OK
+592,19310.0,0X270,618000048.0,618000048.0,PPC,OK,OK
+593,19311.0,0X280,618000049.0,618000049.0,PRG,OK,OK
+594,19312.0,0X290,618000050.0,618000050.0,PPC,OK,Project anchor performance value does not match CTIPS.
+595,19313.0,0X300,618000051.0,618000051.0,PRG,OK,Project anchor performance items do not match CTIPS.
+596,16482.0,0U000,615000296.0,615000296.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+597,21748.0,1A290,619000229.0,619000229.0,PRG,OK,OK
+598,21749.0,1A300,619000230.0,619000230.0,PRG,OK,OK
+599,21048.0,0Y030,618000194.0,618000194.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+600,16163.0,0V780,616000234.0,616000234.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+601,23029.0,1E190,621000224.0,621000224.0,PRG,OK,OK
+602,19314.0,0X780,618000138.0,618000138.0,PRG,OK,Project anchor performance value does not match CTIPS.
+603,17582.0,0W170,617000103.0,617000103.0,PRG,OK,Project anchor performance value does not match CTIPS.
+604,22741.0,0U421,620000047.0,620000047.0,PRG,OK,OK
+605,15883.0,0U420,616000004.0,616000004.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+606,19324.0,0W970,617000292.0,617000292.0,PPC,OK,OK
+607,19315.0,0W800,617000306.0,617000306.0,PPC,OK,OK
+608,19328.0,0X430,618000065.0,618000065.0,PRG,OK,Project anchor performance value does not match CTIPS.
+609,19325.0,0Y420,619000020.0,619000020.0,PPC,OK,OK
+610,19317.0,0X310,618000052.0,618000052.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+611,16519.0,0U760,616000034.0,616000034.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+612,22742.0,1A630,621000040.0,621000040.0,PRG,OK,OK
+613,21604.0,0Y410,619000172.0,619000172.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+614,21760.0,1A320,619000233.0,619000233.0,PRG,OK,OK
+615,21915.0,1A460,620000037.0,620000037.0,PPC,OK,OK
+616,19322.0,0X060,618000015.0,618000015.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+617,18277.0,0W180,617000152.0,617000152.0,PPC,OK,Project anchor performance items do not match CTIPS.
+618,19329.0,0X330,618000055.0,618000055.0,PRG,OK,Project anchor performance items do not match CTIPS.
+619,22739.0,1A600,620000170.0,620000170.0,CCA,OK,OK
+620,19332.0,0U500,615000300.0,615000300.0,PRG,OK,Project anchor performance items do not match CTIPS.
+621,22264.0,1A690,620000116.0,620000116.0,PRG,OK,OK
+622,19335.0,0X240,618000043.0,618000043.0,PRG,OK,Project anchor performance value does not match CTIPS.
+623,19337.0,0Y130,619000010.0,619000010.0,PRG,OK,OK
+624,21919.0,1A470,620000038.0,620000038.0,PRG,OK,OK
+625,20927.0,0X770,618000131.0,618000131.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+626,19339.0,0X350,618000057.0,618000057.0,PPC,OK,OK
+627,16571.0,0U110,615000212.0,615000212.0,CCA,OK,Project anchor performance value does not match CTIPS.
+628,16375.0,0T000,615000003.0,615000003.0,PPC,OK,OK
+629,19341.0,0X160,618000183.0,618000183.0,PRG,OK,OK
+630,21348.0,0Q281,618000145.0,618000145.0,PRG,OK,OK
+631,21330.0,0X760,618000129.0,618000129.0,PRG,OK,OK
+632,15884.0,0V610,616000222.0,616000222.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+633,19346.0,0W810,617000303.0,617000303.0,PRG,OK,Project anchor performance value does not match CTIPS.
+634,,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+635,19348.0,0X380,618000060.0,618000060.0,PRG,OK,OK
+636,16536.0,0S050,615000047.0,615000047.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+637,19354.0,0X520,618000083.0,618000083.0,CCA,OK,OK
+638,19350.0,0X080,618000017.0,618000017.0,PPC,OK,Project anchor performance items do not match CTIPS.
+639,16506.0,0U290,616000001.0,616000001.0,PPC,OK,OK
+640,15961.0,0U430,616000033.0,616000033.0,PPC,OK,OK
+641,14143.0,0W150,617000096.0,617000096.0,PPC,OK,OK
+642,19351.0,0W990,617000297.0,617000297.0,PRG,OK,OK
+643,22771.0,1C130,621000101.0,621000101.0,CCA,OK,OK
+644,21295.0,0R190,614000057.0,614000057.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+645,21454.0,0X950,619000078.0,619000078.0,PRG,OK,OK
+646,19357.0,0U460,615000309.0,615000309.0,PRG,OK,OK
+647,19358.0,0W820,617000304.0,617000304.0,PRG,OK,OK
+648,16476.0,0V110,616000208.0,616000208.0,PRG,OK,Project anchor performance items do not match CTIPS.
+649,13718.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+650,13388.0,,,,,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+651,13250.0,0R210,614000058.0,614000058.0,PPC,OK,OK
+652,17392.0,0V120,616000207.0,616000207.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+653,23028.0,1E200,621000225.0,621000225.0,PRG,OK,OK
+654,19361.0,0Y180,619000005.0,619000005.0,PRG,OK,OK
+655,19366.0,0X700,619000009.0,619000009.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+656,19377.0,0U040,615000191.0,615000191.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+657,19376.0,0X040,618000013.0,618000013.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+658,19369.0,0W790,617000307.0,617000307.0,PPC,OK,OK
+659,19367.0,0X250,618000044.0,618000044.0,PRG,OK,OK
+660,13841.0,0U770,616000035.0,616000035.0,PPC,OK,Project anchor performance value does not match CTIPS.
+661,19370.0,0W910,618000011.0,618000011.0,PPC,OK,OK
+662,11323.0,0V760,616000220.0,616000220.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+663,16273.0,0U270,615000295.0,615000295.0,PPC,OK,OK
+664,21768.0,1A310,619000232.0,619000232.0,PRG,OK,OK
+665,22776.0,1C120,621000053.0,621000053.0,PRG,OK,OK
+666,19372.0,0X260,618000045.0,618000045.0,PRG,OK,OK
+667,22180.0,1A540,620000062.0,620000062.0,PRG,OK,OK
+668,19373.0,0W900,618000012.0,618000012.0,PPC,OK,OK
+669,16272.0,0U280,615000293.0,615000293.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+670,21119.0,0Y490,618000228.0,618000228.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+671,13675.0,32160,716000049.0,716000049.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+672,16850.0,32090,716000043.0,716000043.0,PRG,OK,Project anchor performance items do not match CTIPS.
+673,18380.0,35040,718000180.0,718000180.0,PRG,OK,Project anchor performance value does not match CTIPS.
+674,19183.0,35200,718000212.0,718000212.0,PRG,OK,OK
+675,18215.0,34610,718000071.0,718000071.0,PPC,OK,Project anchor performance items do not match CTIPS.
+676,23308.0,1XW30,722000056.0,722000056.0,PRG,OK,OK
+677,21610.0,35970,719000238.0,719000238.0,PRG,OK,OK
+678,15933.0,32580,716000090.0,716000090.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+679,21607.0,35960,719000225.0,719000225.0,PRG,OK,OK
+680,21611.0,35950,719000218.0,719000218.0,PRG,OK,OK
+681,17052.0,32720,716000121.0,716000121.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+682,16007.0,31350,715000090.0,715000090.0,PPC,OK,Project anchor performance value does not match CTIPS.
+683,17634.0,4X970,716000335.0,716000335.0,PPC,OK,OK
+684,18678.0,35490,719000001.0,719000001.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+685,15935.0,35420,718000323.0,718000323.0,PRG,OK,OK
+686,11250.0,29140,712000094.0,712000094.0,PPC,OK,Project anchor performance items do not match CTIPS.
+687,15936.0,33360,716000313.0,716000313.0,PPC,OK,OK
+688,9344.0,34850,718000143.0,718000143.0,PRG,OK,OK
+689,9251.0,35150,718000191.0,718000191.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+690,16008.0,35540,719000010.0,719000010.0,PPC,OK,OK
+691,18147.0,35130,718000189.0,718000189.0,PPC,OK,OK
+692,20761.0,35110,718000186.0,718000186.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+693,20760.0,35030,718000179.0,718000179.0,PRG,OK,Project anchor performance value does not match CTIPS.
+694,18670.0,35020,718000178.0,718000178.0,PRG,OK,OK
+695,18381.0,35060,718000181.0,718000181.0,PPC,OK,OK
+696,14110.0,33250,716000270.0,716000270.0,PPC,OK,OK
+697,22635.0,1XS20,721000058.0,721000058.0,PRG,OK,OK
+698,22700.0,1XS30,721000065.0,721000065.0,CCA,OK,OK
+699,18685.0,34900,718000155.0,718000155.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+700,17538.0,33320,716000301.0,716000301.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+701,18975.0,34880,718000149.0,718000149.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+702,19267.0,35730,719000062.0,719000062.0,PPC,OK,OK
+703,22758.0,1XT00,721000131.0,721000131.0,PRG,OK,OK
+704,17539.0,33300,716000298.0,716000298.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+705,20844.0,35180,718000205.0,718000205.0,PRG,OK,OK
+706,16560.0,32490,716000079.0,716000079.0,PPC,OK,OK
+707,23048.0,0W370,722000008.0,722000008.0,PRG,OK,OK
+708,17248.0,34420,718000046.0,718000046.0,PRG,OK,OK
+709,20712.0,34740,718000097.0,718000097.0,PRG,OK,OK
+710,14076.0,31990,716000028.0,716000028.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+711,19227.0,35380,718000306.0,718000306.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+712,16787.0,32880,716000183.0,716000183.0,PPC,OK,OK
+713,13691.0,32340,716000064.0,716000064.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+714,18690.0,35230,718000220.0,718000220.0,PRG,OK,OK
+715,16832.0,32590,716000091.0,716000091.0,PPC,OK,OK
+716,18356.0,34750,718000098.0,718000098.0,PRG,OK,OK
+717,16213.0,33200,716000254.0,716000254.0,PPC,OK,OK
+718,13708.0,35840,719000111.0,719000111.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+719,22757.0,1XS80,721000118.0,721000118.0,CCA,OK,OK
+720,22613.0,1XR50,721000022.0,721000022.0,CCA,OK,OK
+721,16215.0,33180,716000252.0,716000252.0,PPC,OK,OK
+722,13615.0,33030,716000213.0,716000213.0,PPC,OK,OK
+723,17154.0,32830,716000175.0,716000175.0,PPC,OK,OK
+724,16033.0,33530,716000363.0,716000363.0,PPC,OK,Project anchor performance value does not match CTIPS.
+725,16823.0,31950,716000024.0,716000024.0,PPC,OK,OK
+726,22612.0,1XR40,721000018.0,721000018.0,CCA,OK,OK
+727,18767.0,34280,717000331.0,717000331.0,PPC,OK,OK
+728,18037.0,33960,717000157.0,717000157.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+729,16898.0,32000,716000029.0,716000029.0,PPC,OK,OK
+730,16901.0,31600,715000194.0,715000194.0,PPC,OK,Project anchor performance items do not match CTIPS.
+731,13678.0,32440,716000077.0,716000077.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+732,17301.0,35980,719000264.0,719000264.0,PRG,OK,OK
+733,15937.0,32290,716000059.0,716000059.0,PPC,OK,Project anchor performance value does not match CTIPS.
+734,18763.0,34260,717000323.0,717000323.0,PPC,OK,OK
+735,15854.0,32620,716000113.0,716000113.0,PPC,OK,Project anchor performance value does not match CTIPS.
+736,22701.0,1XS40,721000066.0,721000066.0,PRG,OK,OK
+737,18314.0,34890,718000152.0,718000152.0,PRG,OK,OK
+738,9351.0,32760,716000132.0,716000132.0,PRG,OK,Project anchor performance value does not match CTIPS.
+739,14094.0,32480,716000078.0,716000078.0,PPC,OK,OK
+740,16171.0,32710,716000120.0,716000120.0,PRG,OK,Project anchor performance value does not match CTIPS.
+741,16224.0,32040,716000040.0,716000040.0,PRG,OK,Project anchor performance value does not match CTIPS.
+742,16225.0,32500,716000080.0,716000080.0,PRG,OK,Project anchor performance value does not match CTIPS.
+743,16819.0,32330,716000063.0,716000063.0,PRG,OK,Project anchor performance value does not match CTIPS.
+744,21369.0,30651,718000285.0,718000285.0,PPC,OK,OK
+745,16896.0,33310,716000299.0,716000299.0,PPC,OK,OK
+746,18404.0,35480,718000356.0,718000356.0,PRG,OK,Project anchor performance value does not match CTIPS.
+747,18080.0,34650,718000075.0,718000075.0,PRG,OK,OK
+748,16661.0,33860,717000060.0,717000060.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+749,11289.0,30160,714000024.0,714000024.0,PPC,OK,Project anchor performance items do not match CTIPS.
+750,23046.0,0W350,722000005.0,722000005.0,PRG,OK,OK
+751,16906.0,31910,716000017.0,716000017.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+752,14095.0,32010,716000030.0,716000030.0,PPC,OK,OK
+753,16166.0,33780,717000054.0,717000054.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+754,23307.0,1XV20,721000230.0,721000230.0,PRG,OK,OK
+755,16085.0,32960,716000203.0,716000203.0,PPC,OK,Project anchor performance value does not match CTIPS.
+756,18506.0,34630,718000073.0,718000073.0,PRG,OK,OK
+757,14106.0,34600,718000070.0,718000070.0,PRG,OK,Project anchor performance value does not match CTIPS.
+758,16885.0,32250,716000056.0,716000056.0,PPC,OK,OK
+759,17221.0,32730,716000126.0,716000126.0,PRG,OK,Project anchor performance measure does not match CTIPS.
+760,18133.0,34490,718000063.0,718000063.0,PRG,OK,OK
+761,18077.0,35510,719000005.0,719000005.0,PPC,OK,OK
+762,17166.0,35560,719000014.0,719000014.0,PRG,OK,Project anchor performance value does not match CTIPS.
+763,13610.0,35700,719000064.0,719000064.0,PRG,OK,OK
+764,17155.0,32860,716000180.0,716000180.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+765,21371.0,30702,718000318.0,718000318.0,PPC,OK,OK
+766,13715.0,32980,716000206.0,716000206.0,PRG,OK,OK
+767,17786.0,33500,716000346.0,716000346.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+768,11324.0,33650,716000401.0,716000401.0,PPC,OK,OK
+769,14051.0,31970,716000026.0,716000026.0,PRG,OK,OK
+770,22885.0,1XV30,721000228.0,721000228.0,PRG,OK,OK
+771,15837.0,32230,716000054.0,716000054.0,PPC,OK,OK
+772,20970.0,35330,718000272.0,718000272.0,PPC,OK,OK
+773,17382.0,33150,716000231.0,716000231.0,PPC,OK,OK
+774,16834.0,32530,716000083.0,716000083.0,PRG,OK,Project anchor performance value does not match CTIPS.
+775,13391.0,33680,717000014.0,717000014.0,PPC,OK,Project anchor performance value does not match CTIPS.
+776,22755.0,1XP90,720000158.0,720000158.0,PRG,OK,OK
+777,16836.0,32200,716000053.0,716000053.0,PPC,OK,OK
+778,22724.0,1XS70,721000115.0,721000115.0,PRG,OK,OK
+779,18691.0,35500,719000004.0,719000004.0,PRG,OK,OK
+780,22137.0,37070,720000138.0,720000138.0,PPC,OK,OK
+781,23047.0,0W360,722000007.0,722000007.0,PRG,OK,Project anchor performance items do not match CTIPS.
+782,16168.0,33790,717000052.0,717000052.0,PPC,OK,Project anchor performance items do not match CTIPS.
+783,15838.0,32240,716000055.0,716000055.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+784,21504.0,36490,719000171.0,719000171.0,PPC,OK,OK
+785,13759.0,33370,716000316.0,716000316.0,PRG,OK,Project anchor performance value does not match CTIPS.
+786,19416.0,35210,718000213.0,718000213.0,PRG,OK,OK
+787,13760.0,32080,716000042.0,716000042.0,PPC,OK,OK
+788,13725.0,32970,716000204.0,716000204.0,PRG,OK,Project anchor performance value does not match CTIPS.
+789,18390.0,34950,718000161.0,718000161.0,PRG,OK,Project anchor performance items do not match CTIPS.
+790,21483.0,35880,719000165.0,719000165.0,PPC,OK,OK
+791,13761.0,32680,716000119.0,716000119.0,PPC,OK,OK
+792,13719.0,33070,716000217.0,716000217.0,PPC,OK,Project anchor performance value does not match CTIPS.
+793,18255.0,34870,718000144.0,718000144.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+794,18595.0,34820,718000137.0,718000137.0,PRG,OK,OK
+795,13444.0,30170,714000033.0,714000033.0,PPC,OK,OK
+796,16208.0,32310,716000061.0,716000061.0,PPC,OK,OK
+797,9230.0,32520,716000082.0,716000082.0,PRG,OK,Project anchor performance items do not match CTIPS.
+798,20686.0,35610,719000020.0,719000020.0,PRG,OK,OK
+799,16209.0,32260,716000057.0,716000057.0,PRG,OK,Project anchor performance value does not match CTIPS.
+800,18383.0,34910,718000158.0,718000158.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+801,16210.0,32850,716000178.0,716000178.0,PPC,OK,Project anchor performance value does not match CTIPS.
+802,23049.0,0W380,722000011.0,722000011.0,PRG,OK,OK
+803,21370.0,30661,718000286.0,718000286.0,PPC,OK,OK
+804,15968.0,35320,718000253.0,718000253.0,PPC,OK,Project anchor performance items do not match CTIPS.
+805,14072.0,32100,716000044.0,716000044.0,PPC,OK,OK
+806,14052.0,32180,716000052.0,716000052.0,PPC,OK,OK
+807,19504.0,35820,719000107.0,719000107.0,PRG,OK,Project anchor performance value does not match CTIPS.
+808,15675.0,30480,714000084.0,714000084.0,PPC,OK,Project anchor performance items do not match CTIPS.
+809,13726.0,33870,717000063.0,717000063.0,PRG,OK,Project anchor performance value does not match CTIPS.
+810,20080.0,35390,718000307.0,718000307.0,PPC,OK,OK
+811,18977.0,35070,719000039.0,719000039.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+812,20818.0,34790,718000123.0,718000123.0,PPC,OK,OK
+813,13739.0,20490,717000022.0,717000022.0,PRG,OK,OK
+814,13755.0,32020,716000031.0,716000031.0,PPC,OK,OK
+815,18764.0,34320,718000008.0,718000008.0,PRG,OK,OK
+816,13727.0,33890,717000074.0,717000074.0,PPC,OK,OK
+817,16838.0,32150,716000048.0,716000048.0,PPC,OK,OK
+818,13690.0,32030,716000033.0,716000033.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+819,15969.0,35660,719000026.0,719000026.0,PPC,OK,OK
+820,16840.0,33610,716000393.0,716000393.0,PPC,OK,OK
+821,16842.0,33930,717000143.0,717000143.0,PPC,OK,OK
+822,16844.0,33940,717000144.0,717000144.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+823,13674.0,32550,716000085.0,716000085.0,PPC,OK,Project anchor performance value does not match CTIPS.
+824,18384.0,34510,718000065.0,718000065.0,PRG,OK,Project anchor performance value does not match CTIPS.
+825,16089.0,34990,718000167.0,718000167.0,PPC,OK,OK
+826,18815.0,34700,718000092.0,718000092.0,PPC,OK,OK
+827,14096.0,33050,716000214.0,716000214.0,PRG,OK,Project anchor performance value does not match CTIPS.
+828,17635.0,35470,718000355.0,718000355.0,PRG,OK,OK
+829,16368.0,31680,715000220.0,715000220.0,PPC,OK,Project anchor performance items do not match CTIPS.
+830,13617.0,31920,716000020.0,716000020.0,PRG,OK,Project anchor performance value does not match CTIPS.
+831,16656.0,31930,716000022.0,716000022.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+832,16845.0,32270,716000067.0,716000067.0,PPC,OK,Project anchor performance value does not match CTIPS.
+833,16393.0,31820,715000286.0,715000286.0,PPC,OK,OK
+834,13679.0,32390,716000072.0,716000072.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+835,16830.0,31960,716000025.0,716000025.0,PPC,OK,OK
+836,13501.0,29650,,713000099.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+837,17468.0,34840,718000141.0,718000141.0,PPC,OK,OK
+838,17249.0,35520,719000009.0,719000009.0,PRG,OK,OK
+839,16961.0,32300,,716000060.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+840,17389.0,33230,716000257.0,716000257.0,PPC,OK,OK
+841,17255.0,35680,719000031.0,719000031.0,PPC,OK,OK
+842,18048.0,35590,719000019.0,719000019.0,PRG,OK,OK
+843,18005.0,33900,,717000108.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+844,16655.0,33110,,716000225.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+845,9374.0,32560,,716000086.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+846,16792.0,33100,716000220.0,716000220.0,PRG,OK,OK
+847,13762.0,33920,717000119.0,717000119.0,PPC,OK,OK
+848,17670.0,33600,716000375.0,716000375.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+849,21832.0,36970,720000023.0,720000023.0,PPC,OK,OK
+850,16790.0,34160,717000194.0,717000194.0,PPC,OK,Project anchor performance value does not match CTIPS.
+851,18049.0,35170,718000204.0,718000204.0,PRG,OK,OK
+852,17254.0,35650,719000023.0,719000023.0,PPC,OK,OK
+853,22781.0,1XT90,721000151.0,721000151.0,PRG,OK,OK
+854,13651.0,32370,716000069.0,716000069.0,PPC,OK,Project anchor performance value does not match CTIPS.
+855,13865.0,30670,714000179.0,714000179.0,PPC,OK,OK
+856,18441.0,34450,718000061.0,718000061.0,PRG,OK,OK
+857,18413.0,34680,718000079.0,718000079.0,PRG,OK,OK
+858,18600.0,34620,718000072.0,718000072.0,PRG,OK,Project anchor performance items do not match CTIPS.
+859,22142.0,1L360,820000061.0,820000061.0,PRG,OK,OK
+860,19171.0,1J700,818000097.0,818000097.0,PPC,OK,OK
+861,15891.0,1C081,816000086.0,816000086.0,PPC,OK,Project anchor performance items do not match CTIPS.
+862,16756.0,0G850,815000218.0,815000218.0,PRG,OK,Project anchor performance value does not match CTIPS.
+863,19734.0,1J470,818000055.0,818000055.0,PRG,OK,OK
+864,19092.0,1J710,818000098.0,818000098.0,PRG,OK,OK
+865,17765.0,1H200,816000177.0,816000177.0,PPC,OK,OK
+866,17356.0,1C083,816000090.0,816000090.0,PPC,OK,OK
+867,19168.0,1J580,818000084.0,818000084.0,PPC,OK,OK
+868,23139.0,1M580,821000143.0,821000143.0,PRG,OK,OK
+869,9339.0,1C570,812000332.0,812000332.0,PRG,OK,OK
+870,21417.0,1K400,819000031.0,819000031.0,PRG,OK,OK
+871,16097.0,1G890,816000099.0,816000099.0,PRG,OK,OK
+872,19099.0,1J670,818000090.0,818000090.0,PRG,OK,OK
+873,14070.0,1E340,813000215.0,813000215.0,PRG,OK,OK
+874,19730.0,1J870,818000124.0,818000124.0,PRG,OK,Project anchor performance value does not match CTIPS.
+875,18008.0,1H420,817000041.0,817000041.0,PRG,OK,OK
+876,18660.0,1H850,817000142.0,817000142.0,PPC,OK,OK
+877,20174.0,1J230,818000002.0,818000002.0,PPC,OK,Project anchor performance items do not match CTIPS.
+878,16052.0,1H380,817000028.0,817000028.0,PRG,OK,Project anchor performance value does not match CTIPS.
+879,19100.0,1j680,818000094.0,818000094.0,PRG,OK,OK
+880,22544.0,1l870,820000172.0,820000172.0,CCA,OK,OK
+881,19098.0,49612,816000145.0,816000145.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+882,22298.0,1L640,820000130.0,820000130.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+883,13628.0,1G470,816000001.0,816000001.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+884,21638.0,1K690,819000090.0,819000090.0,PRG,OK,Project anchor performance value does not match CTIPS.
+885,17351.0,1C072,816000084.0,816000084.0,PPC,OK,Project anchor performance items do not match CTIPS.
+886,17613.0,1H060,816000130.0,816000130.0,PRG,OK,OK
+887,18730.0,1J020,817000182.0,817000182.0,PPC,OK,OK
+888,19173.0,1J320,818000017.0,818000017.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+889,19170.0,1E140,813000178.0,813000178.0,PRG,OK,OK
+890,17243.0,1G670,816000049.0,816000049.0,PPC,OK,OK
+891,21785.0,1L080,819000148.0,819000148.0,PRG,OK,OK
+892,21859.0,1L320,820000026.0,820000026.0,PPC,OK,OK
+893,16692.0,1g630,816000043.0,816000043.0,PRG,OK,OK
+894,20883.0,0R302,817000230.0,817000230.0,PPC,OK,Project anchor performance measure does not match CTIPS.
+895,18968.0,1J260,818000012.0,818000012.0,PPC,OK,Project anchor performance items do not match CTIPS.
+896,19075.0,1J290,818000015.0,818000015.0,PPC,OK,OK
+897,21492.0,1K460,819000045.0,819000045.0,PPC,OK,OK
+898,19689.0,1J610,818000102.0,818000102.0,PRG,OK,OK
+899,19729.0,1J450,818000043.0,818000043.0,PRG,OK,OK
+900,20185.0,1J910,818000135.0,818000135.0,PPC,OK,Project anchor performance items do not match CTIPS.
+901,21905.0,1L330,820000042.0,820000042.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+902,16652.0,1G280,815000192.0,815000192.0,PPC,OK,OK
+903,19683.0,1J540,818000069.0,818000069.0,PRG,OK,OK
+904,16102.0,1G880,816000098.0,816000098.0,PPC,OK,Project anchor performance value does not match CTIPS.
+905,20855.0,1J200,817000237.0,817000237.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+906,18004.0,1H390,817000032.0,817000032.0,PPC,OK,OK
+907,23140.0,1M590,821000144.0,821000144.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+908,13795.0,1C720,813000003.0,813000003.0,PPC,OK,OK
+909,19175.0,1J330,818000019.0,818000019.0,PRG,OK,OK
+910,16014.0,0G691,815000184.0,815000184.0,PPC,OK,Project anchor performance items do not match CTIPS.
+911,19179.0,1J550,818000070.0,818000070.0,PRG,OK,OK
+912,19097.0,1J310,818000018.0,818000018.0,PRG,OK,OK
+913,13833.0,0G690,812000110.0,812000110.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+914,19081.0,1J300,818000016.0,818000016.0,PRG,OK,Project anchor performance value does not match CTIPS.
+915,16691.0,1G520,816000020.0,816000020.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+916,22621.0,1l940,821000040.0,821000040.0,PRG,OK,OK
+917,22827.0,1L980,821000048.0,821000048.0,PRG,OK,OK
+918,19693.0,1J720,818000099.0,818000099.0,PPC,OK,Project anchor performance items do not match CTIPS.
+919,13796.0,0R170,812000028.0,812000028.0,PRG,OK,Project anchor performance value does not match CTIPS.
+920,14067.0,1g550,816000035.0,816000035.0,CCA,OK,OK
+921,16942.0,0R141,815000200.0,815000200.0,PRG,OK,Project anchor performance value does not match CTIPS.
+922,17458.0,1G830,816000079.0,816000079.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+923,21456.0,1K490,819000050.0,819000050.0,PRG,OK,Project anchor performance value does not match CTIPS.
+924,22917.0,1M570,821000142.0,821000142.0,PRG,OK,OK
+925,19809.0,1J210,817000240.0,817000240.0,PPC,OK,OK
+926,16693.0,1G660,816000048.0,816000048.0,PPC,OK,Project anchor performance value does not match CTIPS.
+927,14065.0,1F400,814000215.0,814000215.0,PRG,OK,OK
+928,21642.0,1K790,819000103.0,819000103.0,PRG,OK,OK
+929,19074.0,1J280,818000013.0,818000013.0,PRG,OK,OK
+930,18662.0,1H830,817000139.0,817000139.0,PPC,OK,OK
+931,18663.0,1H820,817000138.0,817000138.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+932,19686.0,1j630,818000086.0,818000086.0,PRG,OK,OK
+933,19062.0,1J270,818000014.0,818000014.0,PRG,OK,OK
+934,21645.0,1K780,819000102.0,819000102.0,PPC,OK,OK
+935,15939.0,1G640,816000046.0,816000046.0,PRG,OK,OK
+936,22541.0,1L890,821000009.0,821000009.0,PRG,OK,OK
+937,19738.0,1H990,817000179.0,817000179.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+938,20175.0,1J840,818000121.0,818000121.0,PPC,OK,Project anchor performance items do not match CTIPS.
+939,20184.0,1J860,818000123.0,818000123.0,PRG,OK,Project anchor performance items do not match CTIPS.
+940,20176.0,1J850,818000122.0,818000122.0,PPC,OK,Project anchor performance items do not match CTIPS.
+941,21125.0,37930,919000007.0,919000007.0,PRG,OK,OK
+942,16315.0,36490,915000018.0,915000018.0,PPC,OK,Project anchor performance value does not match CTIPS.
+943,19023.0,37450,918000017.0,918000017.0,PPC,OK,OK
+944,18991.0,37900,919000004.0,919000004.0,PRG,OK,OK
+945,21143.0,37950,919000009.0,919000009.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+946,18995.0,37910,919000005.0,919000005.0,PRG,OK,Project anchor performance value does not match CTIPS.
+947,18994.0,37470,918000019.0,918000019.0,PPC,OK,Project anchor performance value does not match CTIPS.
+948,19022.0,37480,918000020.0,918000020.0,PPC,OK,OK
+949,16268.0,36680,916000021.0,916000021.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+950,19012.0,37890,919000003.0,919000003.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+951,17528.0,36750,916000032.0,916000032.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+952,17790.0,36770,917000001.0,917000001.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+953,17663.0,36720,916000016.0,916000016.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+954,16632.0,36660,916000008.0,916000008.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+955,13540.0,36070,914000003.0,914000003.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+956,19005.0,37880,919000002.0,919000002.0,PRG,OK,OK
+957,18987.0,37430,918000015.0,918000015.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+958,19018.0,37870,919000001.0,919000001.0,PRG,OK,OK
+959,16629.0,36640,916000006.0,916000006.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+960,16630.0,36800,917000011.0,917000011.0,PPC,OK,OK
+961,18344.0,0J720,1018000271.0,1018000271.0,PPC,OK,OK
+962,22629.0,0S751,1020000159.0,1020000159.0,PRG,OK,OK
+963,22627.0,0S681,1020000166.0,1020000166.0,PRG,OK,OK
+964,17279.0,1H560,1017000184.0,1017000184.0,PRG,OK,Project anchor performance value does not match CTIPS.
+965,18755.0,1G020,1018000275.0,1018000275.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+966,23344.0,1N690,1022000012.0,1022000012.0,PRG,OK,OK
+967,22738.0,0X753,1021000016.0,1021000016.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+968,16946.0,0X752,1017000004.0,1017000004.0,PPC,OK,OK
+969,11366.0,0Q210,1017000171.0,1017000171.0,PRG,OK,OK
+970,13623.0,1C360,1016000136.0,1016000136.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+971,22790.0,1N020,1021000074.0,1021000074.0,PRG,OK,OK
+972,19003.0,0K130,1012000002.0,1012000002.0,PRG,OK,OK
+973,23342.0,1N870,1022000046.0,1022000046.0,PRG,OK,OK
+974,23343.0,1N880,1022000047.0,1022000047.0,PRG,OK,OK
+975,20805.0,0E531,1018000164.0,1018000164.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+976,18762.0,1H500,1017000154.0,1017000154.0,PPC,OK,OK
+977,18104.0,1G620,1017000181.0,1017000181.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+978,21402.0,1J820,1019000055.0,1019000055.0,PRG,OK,OK
+979,13804.0,0X740,1013000008.0,1013000008.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+980,21691.0,1K820,1019000164.0,1019000164.0,PRG,OK,OK
+981,13450.0,0V480,1013000264.0,1013000264.0,PRG,OK,OK
+982,16769.0,0X751,1015000128.0,1015000128.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+983,19821.0,1H700,1018000277.0,1018000277.0,PRG,OK,Project anchor performance value does not match CTIPS.
+984,18752.0,1G270,1018000013.0,1018000013.0,PRG,OK,OK
+985,15687.0,0Y770,1015000008.0,1015000008.0,PPC,OK,OK
+986,13681.0,0Y780,1016000025.0,1016000025.0,PRG,OK,OK
+987,17863.0,0Y340,1014000182.0,1014000182.0,PPC,OK,OK
+988,11180.0,0P921,1014000148.0,1014000148.0,PPC,OK,OK
+989,22526.0,0P923,1020000099.0,1020000099.0,PRG,OK,OK
+990,17444.0,1C790,1016000046.0,1016000046.0,PPC,OK,Project anchor performance value does not match CTIPS.
+991,23031.0,1N430,1021000185.0,1021000185.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+992,17135.0,1C810,1015000038.0,1015000038.0,PPC,OK,Project anchor performance items do not match CTIPS.
+993,18751.0,1G250,1018000276.0,1018000276.0,PRG,OK,OK
+994,19038.0,0V690,1018000284.0,1018000284.0,PPC,OK,OK
+995,21562.0,1k620,1019000059.0,1019000059.0,PRG,OK,OK
+996,21959.0,1L310,1020000183.0,1020000183.0,PRG,OK,OK
+997,22717.0,1M470,1020000189.0,1020000189.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+998,21646.0,3A721,1019000020.0,1019000020.0,PPC,OK,OK
+999,23058.0,1N780,1022000026.0,1022000026.0,PRG,OK,OK
+1000,13276.0,0Y610,1013000245.0,1013000245.0,PPC,OK,OK
+1001,13541.0,0Y130,1013000243.0,1013000243.0,PPC,OK,OK
+1002,18337.0,1H020,1017000175.0,1017000175.0,PRG,OK,OK
+1003,22376.0,1M170,1020000188.0,1020000188.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1004,21958.0,1L630,1020000085.0,1020000085.0,PRG,OK,OK
+1005,16612.0,0T680,1017000005.0,1017000005.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1006,20972.0,1J300,1018000101.0,1018000101.0,PPC,OK,OK
+1007,16545.0,1C370,1017000043.0,1017000043.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1008,13559.0,0G830,1012000316.0,1012000316.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+1009,18789.0,0T69U,1017000177.0,1017000177.0,PRG,OK,OK
+1010,22193.0,1L870,1020000086.0,1020000086.0,PRG,OK,OK
+1011,18749.0,1H360,1017000185.0,1017000185.0,PRG,OK,OK
+1012,17442.0,1F180,1016000077.0,1016000077.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1013,23056.0,1N760,1022000024.0,1022000024.0,PPC,OK,OK
+1014,22642.0,1M610,1021000015.0,1021000015.0,CCA,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1015,18329.0,1C050,1017000178.0,1017000178.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1016,22250.0,1L280,1020000103.0,1020000103.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1017,23057.0,1N770,1022000025.0,1022000025.0,PRG,OK,OK
+1018,17307.0,1F960,1018000007.0,1018000007.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+1019,23044.0,1N570,1021000212.0,1021000212.0,PRG,OK,OK
+1020,18073.0,1F400,1016000053.0,1016000053.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1021,13295.0,0X460,1012000259.0,1012000259.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1022,16734.0,1E300,1018000273.0,1018000273.0,PRG,OK,OK
+1023,22864.0,1N200,1021000104.0,1021000104.0,PRG,OK,OK
+1024,17508.0,1F760,1017000024.0,1017000024.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1025,17950.0,1G510,1017000016.0,1017000016.0,PPC,OK,OK
+1026,17099.0,1F170,1016000032.0,1016000032.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1027,22548.0,1M590,1021000012.0,1021000012.0,PRG,OK,OK
+1028,9298.0,0S740,1013000260.0,1013000260.0,PPC,OK,Project anchor performance value does not match CTIPS.
+1029,18914.0,1H530,1017000204.0,1017000204.0,PRG,OK,OK
+1030,20957.0,1E74U,1018000159.0,1018000159.0,PRG,OK,OK
+1031,13731.0,1C760,1017000015.0,1017000015.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+1032,16964.0,1E610,1017000022.0,1017000022.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1033,23261.0,1N460,1021000191.0,1021000191.0,PRG,OK,OK
+1034,18807.0,1H510,1017000203.0,1017000203.0,PRG,OK,OK
+1035,18811.0,1H650,1018000282.0,1018000282.0,PRG,OK,OK
+1036,21690.0,1K960,1019000163.0,1019000163.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1037,21957.0,1L260,1020000084.0,1020000084.0,PRG,OK,OK
+1038,16180.0,1C960,1017000021.0,1017000021.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1039,21502.0,1K460,1019000084.0,1019000084.0,PPC,OK,OK
+1040,18276.0,1G990,1017000074.0,1017000074.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1041,18410.0,1C380,1018000272.0,1018000272.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1042,14039.0,1C330,1014000146.0,1014000146.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1043,18750.0,1H280,1017000190.0,1017000190.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1044,14034.0,1C270,1014000097.0,1014000097.0,PRG,OK,OK
+1045,18797.0,1F970,1018000283.0,1018000283.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+1046,16542.0,1E620,1016000017.0,1016000017.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1047,18814.0,1H600,1017000187.0,1017000187.0,PRG,OK,OK
+1048,21692.0,1k840,1019000165.0,1019000165.0,PRG,OK,OK
+1049,17948.0,1G420,1017000013.0,1017000013.0,PPC,OK,OK
+1050,11306.0,46210,1013000266.0,1013000266.0,PPC,OK,OK
+1051,11347.0,1C400,1017000025.0,1017000025.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1052,17507.0,1F250,1017000179.0,1017000179.0,PRG,OK,OK
+1053,13842.0,41200,1112000158.0,1112000158.0,PPC,OK,OK
+1054,20251.0,43049,1118000262.0,1118000262.0,PPC,OK,OK
+1055,19308.0,43044,1118000204.0,1118000204.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1056,19299.0,43030,1118000099.0,1118000099.0,PPC,OK,OK
+1057,17856.0,42750,1116000177.0,1116000177.0,PPC,OK,Project anchor performance value does not match CTIPS.
+1058,19165.0,43033,1118000103.0,1118000103.0,PPC,OK,OK
+1059,22939.0,43127,1121000129.0,1121000129.0,PRG,OK,OK
+1060,23152.0,2N108,1121000057.0,1121000057.0,PRG,OK,OK
+1061,17546.0,42650,1116000125.0,1116000125.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+1062,16960.0,42200,1115000173.0,1115000173.0,PRG,OK,OK
+1063,19301.0,43041,1118000134.0,1118000134.0,PRG,OK,OK
+1064,18917.0,43017,,1117000206.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance measure does not match CTIPS.
+1065,18422.0,43001,1117000116.0,1117000116.0,PPC,OK,OK
+1066,21648.0,43067,1119000066.0,1119000066.0,PRG,OK,OK
+1067,16945.0,26410,1116000045.0,1116000045.0,PPC,OK,OK
+1068,13767.0,42710,1116000154.0,1116000154.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+1069,21435.0,43060,1119000026.0,1119000026.0,PRG,OK,OK
+1070,21059.0,43043,1118000197.0,1118000197.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+1071,21828.0,4116U,1119000177.0,1119000177.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+1072,22938.0,43129,1121000189.0,1121000189.0,PRG,OK,OK
+1073,16848.0,42210,1115000178.0,1115000178.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1074,17021.0,42370,1116000059.0,1116000059.0,PPC,OK,OK
+1075,16760.0,42460,1116000075.0,1116000075.0,PPC,OK,OK
+1076,18973.0,43019,1118000001.0,1118000001.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1077,20229.0,43051,1119000008.0,1119000008.0,PPC,OK,OK
+1078,13733.0,41180,1112000155.0,1112000155.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1079,22767.0,43112,1120000103.0,1120000103.0,PRG,OK,OK
+1080,19302.0,43025,1118000079.0,1118000079.0,PPC,OK,OK
+1081,16889.0,42480,1116000068.0,1116000068.0,PPC,OK,OK
+1082,14077.0,41190,1112000157.0,1112000157.0,PPC,OK,OK
+1083,19306.0,43031,1118000095.0,1118000095.0,PRG,OK,OK
+1084,21311.0,43056,1119000015.0,1119000015.0,PPC,OK,OK
+1085,20171.0,43021,1118000008.0,1118000008.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1086,19304.0,43027,1118000084.0,1118000084.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1087,16717.0,42230,1115000180.0,1115000180.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1088,19298.0,43040,1118000128.0,1118000128.0,PRG,OK,OK
+1089,19307.0,43036,1118000109.0,1118000109.0,PRG,OK,OK
+1090,19300.0,43034,1118000104.0,1118000104.0,PRG,OK,OK
+1091,16257.0,42510,1116000077.0,1116000077.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1092,13845.0,41220,1112000160.0,1112000160.0,PPC,OK,OK
+1093,19303.0,43026,1118000083.0,1118000083.0,PRG,OK,OK
+1094,18983.0,43024,1118000033.0,1118000033.0,PPC,OK,OK
+1095,13419.0,41140,1112000143.0,1112000143.0,PPC,OK,OK
+1096,17031.0,42380,1116000061.0,1116000061.0,PPC,OK,Project anchor performance value does not match CTIPS.
+1097,23151.0,2N142,1121000265.0,1121000265.0,PRG,OK,OK
+1098,21376.0,43048,1118000260.0,1118000260.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1099,19044.0,43023,1118000029.0,1118000029.0,PPC,OK,OK
+1100,17767.0,42880,1117000038.0,1117000038.0,PPC,OK,OK
+1101,17768.0,42870,1117000037.0,1117000037.0,PRG,OK,OK
+1102,13766.0,42900,1117000045.0,1117000045.0,PPC,OK,OK
+1103,19142.0,43032,1118000102.0,1118000102.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1104,13082.0,41150,1112000144.0,1112000144.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1105,19151.0,43038,1118000114.0,1118000114.0,PRG,OK,OK
+1106,22940.0,43064,1119000045.0,1119000045.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1107,22861.0,43130,1121000192.0,1121000192.0,PRG,OK,OK
+1108,20765.0,0Q990,1218000013.0,1218000013.0,PRG,OK,OK
+1109,22784.0,0S750,1221000034.0,1221000034.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1110,13768.0,0P690,1216000003.0,1216000003.0,PPC,OK,OK
+1111,21158.0,0H151,1218000057.0,1218000057.0,PRG,OK,OK
+1112,20914.0,0R170,1218000062.0,1218000062.0,PRG,OK,OK
+1113,16712.0,0P660,1215000158.0,1215000158.0,PRG,OK,OK
+1114,16817.0,0P680,1216000002.0,1216000002.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1115,20955.0,0R410,1218000090.0,1218000090.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance items do not match CTIPS.
+1116,21682.0,0S140,1219000098.0,1219000098.0,PRG,OK,OK
+1117,19237.0,0Q830,1217000114.0,1217000114.0,PPC,OK,OK
+1118,16716.0,0P590,1215000149.0,1215000149.0,PPC,OK,OK
+1119,20918.0,0R200,1218000065.0,1218000065.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+1120,19831.0,0S170,1219000102.0,1219000102.0,PPC,OK,OK
+1121,21826.0,0S280,1220000014.0,1220000014.0,PRG,OK,OK
+1122,22184.0,0S310,1220000038.0,1220000038.0,PRG,OK,OK
+1123,21746.0,0S100,1219000092.0,1219000092.0,PRG,OK,OK
+1124,20992.0,0R470,1218000098.0,1218000098.0,PRG,OK,OK
+1125,19238.0,0Q820,1217000112.0,1217000112.0,PRG,OK,OK
+1126,21393.0,0R750,1219000030.0,1219000030.0,PPC,OK,OK
+1127,9306.0,0P900,1216000046.0,1216000046.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1128,21045.0,0R510,1218000102.0,1218000102.0,PRG,OK,OK
+1129,9307.0,0P910,1216000047.0,1216000047.0,CCA,OK,Project anchor performance value does not match CTIPS.
+1130,9308.0,0P920,1216000044.0,1216000044.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1131,22220.0,0S390,1220000060.0,1220000060.0,PRG,OK,OK
+1132,9309.0,0P930,1216000045.0,1216000045.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",Project anchor performance value does not match CTIPS.
+1133,22850.0,0S710,1221000022.0,1221000022.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1134,21719.0,0S110,1219000091.0,1219000091.0,PRG,OK,OK
+1135,18683.0,0Q650,1217000082.0,1217000082.0,PRG,OK,OK
+1136,20960.0,0R290,1218000076.0,1218000076.0,PRG,OK,OK
+1137,17816.0,0Q320,1216000129.0,1216000129.0,PPC,OK,OK
+1138,21718.0,0S190,1219000104.0,1219000104.0,PRG,OK,OK
+1139,18682.0,0Q640,1217000080.0,1217000080.0,PPC,OK,OK
+1140,21430.0,0R740,1219000028.0,1219000028.0,PRG,OK,OK
+1141,18833.0,0R320,1218000078.0,1218000078.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1142,21044.0,0R500,1218000101.0,1218000101.0,PPC,OK,OK
+1143,17495.0,0Q390,1217000003.0,1217000003.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1144,21334.0,0R670,1219000014.0,1219000014.0,PRG,OK,OK
+1145,20860.0,0R150,1218000049.0,1218000049.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1146,22196.0,0S330,1220000043.0,1220000043.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1147,23030.0,0T120,1222000004.0,1222000004.0,PRG,OK,OK
+1148,19233.0,0Q790,1217000104.0,1217000104.0,CCA,OK,OK
+1149,16753.0,0Q270,1216000117.0,1216000117.0,PPC,OK,OK
+1150,20716.0,0R340,1218000079.0,1218000079.0,PPC,OK,Project anchor performance items do not match CTIPS.
+1151,22543.0,0P031,1220000084.0,1220000084.0,PRG,OK,OK
+1152,20915.0,0R180,1218000063.0,1218000063.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1153,21466.0,0R920,1219000054.0,1219000054.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1154,22230.0,0R311,1220000021.0,1220000021.0,PPC,OK,OK
+1155,21431.0,0R730,1219000029.0,1219000029.0,PRG,OK,OK
+1156,17817.0,0Q310,1216000124.0,1216000124.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1157,22231.0,0R312,1220000022.0,1220000022.0,PRG,OK,OK
+1158,20916.0,0R190,1218000064.0,1218000064.0,PRG,OK,OK
+1159,22232.0,0R313,1220000025.0,1220000025.0,PPC,OK,OK
+1160,22233.0,0R314,1220000026.0,1220000026.0,PRG,OK,Project anchor performance value does not match CTIPS.
+1161,22234.0,0R315,1220000027.0,1220000027.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1162,16143.0,0N890,1214000130.0,1214000130.0,PPC,OK,OK
+1163,20713.0,0Q980,1218000011.0,1218000011.0,PPC,OK,OK
+1164,22849.0,0S680,1221000015.0,1221000015.0,PRG,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1165,11367.0,0H047,1212000053.0,1212000053.0,PPC,"The Post mile inputs (Route, County, Begin PM, End PM) do not fully match between AMTool and CTIPS.",OK
+1166,21778.0,0S150,1219000099.0,1219000099.0,PRG,OK,OK
+1167,18946.0,0Q970,1218000010.0,1218000010.0,PPC,OK,OK
+1168,18839.0,0R570,1218000120.0,1218000120.0,PRG,OK,OK
+1169,21333.0,0R680,1219000017.0,1219000017.0,PRG,OK,OK
+1170,20956.0,0Q930,1217000128.0,1217000128.0,PRG,OK,Project anchor performance items do not match CTIPS.
+1171,21043.0,0R560,1218000117.0,1218000117.0,PRG,OK,Project anchor performance value does not match CTIPS.

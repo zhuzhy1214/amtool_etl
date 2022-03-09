@@ -1,0 +1,9 @@
+AMT_ID,District,Activity,Activity Location,Unit of Measurement_HOV,Quantity_HOV,Comment_HOV,Unit of Measurement_DVHD,Quantity_DVHD,Comment_DVHD,Total Project Cost ($K),AM Tool RTL (Section in Use)
+16920,3,Pavement,In Placer County on Route 80 from approximately 0.1 mile east of 80/49 Separation to approximately 0.3 miles east of Crother Rd OC (19-0130).,Hours,20.0,,DVHD,23.0,Extend onramp,78300.0,2026/27
+17139,7,,,Hours,2.0,,DVHD,1.0,,,
+20315,7,Signs and Lighting,"On Rte 57, from South of Pathfinder Road to North of Allen Ave UC, on Rte 71 PM 0.3/1.0 from JCT 57 to San Jose Channel, on Rte 10 PM 41.7/43.5 from E/O Routes 57/71/210 to West of Fairplex Dr. Upgrade TMS (315) Lighting Rehabilitation Project.",Hours,37.0,15% of total 245 DVHD,DVHD,245.0,"from 7 ramp meters, calculated by Corridor Mgmt",21471.0,2026/27
+21445,7,Pavement,"On Route 5, From 0.3 mile n/o Winnona Ave UC to 0.5 mile s/o I-5/SR-14 Separation - CAPM, Upgrade TMS: LA 5 from Brand Blvd to S/O Rte 14, LARTMC at LA 2 PM R18.7, San Fernando Valley HUB LA 405 PM 48.48",Hours,150.0,15% of total DVHD (1007),DVHD,857.0,"from 16 ramp meters, calculated by Corridor Mgmt",111000.0,2026/27
+23288,8,Mobility - Operational Improvements,Add CHP enforcement on all freeways with HOV-Lanes throughout the county,Hours,1.0,Performance not established by the program,DVHD,1.0,,5179.0,2027/28
+23220,11,Mobility - TMS,In San Diego County on Route 5 at Various Locations,Hours,89.0,,,,,36186.0,2027/28
+22141,12,Pavement,Pavement Rehabilitation (AC & PCC) and Construct Full Trash Capture Device (FTCD) or Equivalent to meet requirement of Trash Total Maximum Daily Load (TMDL) from I-5 to LA county line,Hours,10000.0,countywide,,,,80264.0,2029/30
+23360,12,Proactive Safety,Install pavement route shield on HOV connectors within the County,Hours,1000.0,,,,,5900.0,2026/27
